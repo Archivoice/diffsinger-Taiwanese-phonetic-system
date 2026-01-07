@@ -41,8 +41,8 @@ Consonant List: `b`,`g`,`h`,`j`,`ji`,`k`,`kh`,`l`,`m`,`n`,`ng`,`p`,`ph`,`s`,`si`
 |   tsh    |        | **tsh**a|
 |   tshi   |        | **tsh**i|
 |   tsi    |        | **ts**i |
-|   w      |        | k**w**a |
-|   y      |        | p**i**a |
+|   w (semivowel)|        | k**w**a |
+|   y (semivowel)|        | p**i**a |
 |          |   N    | pi**N** |
 |          |   nn   | pi**nn**|
 |          |   M    | pi**M** |
@@ -76,4 +76,5 @@ Vowel List: `a`,`ai`,`au`,`e`,`i`,`MM`,`NNG`,`o`,`oo`,`u`
 |   Use              | Phoneme   | Description |
 | :----------------: | :-------: | :---------------------------------------------------------------------------------------: |
 | tongue click sound |    mlem   | a clicking sound the tongue makes sometimes when taking a breath, used together with `AP` |
+
 | unvoiced sounds    |    hx     | generalized unvoiced sound used... wherever |
