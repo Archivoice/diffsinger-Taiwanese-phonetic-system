@@ -76,6 +76,4 @@ Vowel List: `a`,`ai`,`au`,`e`,`i`,`MM`,`NNG`,`o`,`oo`,`u`
 |   Use              | Phoneme   | Description |
 | :----------------: | :-------: | :---------------------------------------------------------------------------------------: |
 | tongue click sound |    mlem   | a clicking sound the tongue makes sometimes when taking a breath, used together with `AP` |
-
 | unvoiced sounds    |    hx     | generalized unvoiced sound used... wherever |
-
