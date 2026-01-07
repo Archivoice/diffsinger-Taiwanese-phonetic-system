@@ -1,6 +1,6 @@
 # Phoneme Info
 
-> **phoneme system taken from our nnsvs Chinese support**
+> **phoneme system based on TaiLo written system**
 
 ### Non-vocal phonemes
 
@@ -78,3 +78,4 @@ Vowel List: `a`,`ai`,`au`,`e`,`i`,`MM`,`NNG`,`o`,`oo`,`u`
 | tongue click sound |    mlem   | a clicking sound the tongue makes sometimes when taking a breath, used together with `AP` |
 
 | unvoiced sounds    |    hx     | generalized unvoiced sound used... wherever |
+
