@@ -1,0 +1,1522 @@
+symbols:
+- {symbol: AP, type: vowel}
+- {symbol: SP, type: vowel}
+- {symbol: cl, type: stop}
+- {symbol: mlem, type: stop}
+- {symbol: vf, type: fricative}
+- {symbol: exh, type: fricative}
+- {symbol: axh, type: fricative}
+#TW
+- {symbol: tw/p, type: stop}
+- {symbol: tw/b, type: stop}
+- {symbol: tw/ph, type: stop}
+- {symbol: tw/m, type: nasal}
+- {symbol: tw/t, type: stop}
+- {symbol: tw/th, type: stop}
+- {symbol: tw/n, type: nasal}
+- {symbol: tw/l, type: liquid}
+- {symbol: tw/k, type: stop}
+- {symbol: tw/g, type: stop}
+- {symbol: tw/kh, type: stop}
+- {symbol: tw/h, type: fricative}
+- {symbol: tw/tsi, type: affricate}
+- {symbol: tw/ji, type: affricate}
+- {symbol: tw/tshi, type: affricate}
+- {symbol: tw/si, type: fricative}
+- {symbol: tw/ts, type: affricate}
+- {symbol: tw/j, type: affricate}
+- {symbol: tw/tsh, type: affricate}
+- {symbol: tw/s, type: fricative}
+- {symbol: tw/ng, type: nasal}
+- {symbol: tw/a, type: vowel}
+- {symbol: tw/i, type: vowel}
+- {symbol: tw/u, type: vowel}
+- {symbol: tw/e, type: vowel}
+- {symbol: tw/o, type: vowel}
+- {symbol: tw/oo, type: vowel}
+- {symbol: tw/ai, type: vowel}
+- {symbol: tw/au, type: vowel}
+- {symbol: tw/NN, type: nasal}
+- {symbol: tw/MM, type: nasal}
+- {symbol: tw/NNG, type: nasal}
+- {symbol: tw/N, type: nasal}
+- {symbol: tw/nn, type: nasal}
+- {symbol: tw/M, type: nasal}
+- {symbol: tw/mm, type: nasal}
+- {symbol: tw/NG, type: nasal}
+- {symbol: tw/K, type: stop}
+- {symbol: tw/P, type: stop}
+- {symbol: tw/T, type: stop}
+- {symbol: tw/y, type: semivowel}
+- {symbol: tw/w, type: semivowel}
+
+
+entries:
+- {grapheme: "a", phonemes: [tw/a]}
+- {grapheme: "ann", phonemes: [tw/a, tw/nn]}
+- {grapheme: "am", phonemes: [tw/a, tw/M]}
+- {grapheme: "an", phonemes: [tw/a, tw/N]}
+- {grapheme: "ang", phonemes: [tw/a, tw/NG]}
+- {grapheme: "ap", phonemes: [tw/a, tw/P]}
+- {grapheme: "at", phonemes: [tw/a, tw/T]}
+- {grapheme: "ak", phonemes: [tw/a, tw/K]}
+- {grapheme: "ah", phonemes: [tw/a]}
+- {grapheme: "annh", phonemes: [tw/a, tw/nn]}
+- {grapheme: "ai", phonemes: [tw/ai]}
+- {grapheme: "ainn", phonemes: [tw/ai, tw/nn]}
+- {grapheme: "aih", phonemes: [tw/ai]}
+- {grapheme: "ainnh", phonemes: [tw/ai, tw/nn]}
+- {grapheme: "au", phonemes: [tw/au]}
+- {grapheme: "auh", phonemes: [tw/au]}
+- {grapheme: "e", phonemes: [tw/e]}
+- {grapheme: "enn", phonemes: [tw/e, tw/nn]}
+- {grapheme: "eh", phonemes: [tw/e]}
+- {grapheme: "ennh", phonemes: [tw/e, tw/nn]}
+- {grapheme: "i", phonemes: [tw/i]}
+- {grapheme: "inn", phonemes: [tw/i, tw/nn]}
+- {grapheme: "im", phonemes: [tw/i, tw/M]}
+- {grapheme: "in", phonemes: [tw/i, tw/N]}
+- {grapheme: "ing", phonemes: [tw/i, tw/NG]}
+- {grapheme: "ip", phonemes: [tw/i, tw/P]}
+- {grapheme: "it", phonemes: [tw/i, tw/T]}
+- {grapheme: "ik", phonemes: [tw/i, tw/K]}
+- {grapheme: "ih", phonemes: [tw/i]}
+- {grapheme: "innh", phonemes: [tw/i, tw/nn]}
+- {grapheme: "ia", phonemes: [tw/y, tw/a]}
+- {grapheme: "iann", phonemes: [tw/y, tw/a, tw/nn]}
+- {grapheme: "iam", phonemes: [tw/y, tw/a, tw/M]}
+- {grapheme: "ian", phonemes: [tw/y, tw/a, tw/N]}
+- {grapheme: "iang", phonemes: [tw/y, tw/a, tw/NG]}
+- {grapheme: "iap", phonemes: [tw/y, tw/a, tw/P]}
+- {grapheme: "iat", phonemes: [tw/y, tw/a, tw/T]}
+- {grapheme: "iak", phonemes: [tw/y, tw/a, tw/K]}
+- {grapheme: "iah", phonemes: [tw/y, tw/a]}
+- {grapheme: "iannh", phonemes: [tw/y, tw/a, tw/nn]}
+- {grapheme: "iau", phonemes: [tw/y, tw/au]}
+- {grapheme: "iaunn", phonemes: [tw/y, tw/au, tw/nn]}
+- {grapheme: "iauh", phonemes: [tw/y, tw/au]}
+- {grapheme: "io", phonemes: [tw/y, tw/o]}
+- {grapheme: "ioh", phonemes: [tw/y, tw/o]}
+- {grapheme: "iong", phonemes: [tw/y, tw/o, tw/NG]}
+- {grapheme: "iok", phonemes: [tw/y, tw/o, tw/K]}
+- {grapheme: "iu", phonemes: [tw/y, tw/u]}
+- {grapheme: "iunn", phonemes: [tw/y, tw/u, tw/nn]}
+- {grapheme: "iuh", phonemes: [tw/y, tw/u]}
+- {grapheme: "iunnh", phonemes: [tw/y, tw/u, tw/nn]}
+- {grapheme: "o", phonemes: [tw/o]}
+- {grapheme: "oh", phonemes: [tw/o]}
+- {grapheme: "oo", phonemes: [tw/oo]}
+- {grapheme: "onn", phonemes: [tw/o, tw/nn]}
+- {grapheme: "om", phonemes: [tw/o, tw/M]}
+- {grapheme: "ong", phonemes: [tw/o, tw/NG]}
+- {grapheme: "op", phonemes: [tw/o, tw/P]}
+- {grapheme: "ok", phonemes: [tw/o, tw/K]}
+- {grapheme: "ooh", phonemes: [tw/oo]}
+- {grapheme: "onnh", phonemes: [tw/o, tw/nn]}
+- {grapheme: "u", phonemes: [tw/u]}
+- {grapheme: "un", phonemes: [tw/u, tw/N]}
+- {grapheme: "ut", phonemes: [tw/u, tw/T]}
+- {grapheme: "uh", phonemes: [tw/u]}
+- {grapheme: "ua", phonemes: [tw/w, tw/a]}
+- {grapheme: "uann", phonemes: [tw/w, tw/a, tw/nn]}
+- {grapheme: "uan", phonemes: [tw/w, tw/a, tw/N]}
+- {grapheme: "uat", phonemes: [tw/w, tw/a, tw/T]}
+- {grapheme: "uah", phonemes: [tw/w, tw/a]}
+- {grapheme: "uai", phonemes: [tw/w, tw/ai]}
+- {grapheme: "uainn", phonemes: [tw/w, tw/ai, tw/nn]}
+- {grapheme: "ue", phonemes: [tw/w, tw/e]}
+- {grapheme: "ueh", phonemes: [tw/w, tw/e]}
+- {grapheme: "ui", phonemes: [tw/w, tw/i]}
+- {grapheme: "m", phonemes: [tw/M]}
+- {grapheme: "mh", phonemes: [tw/M]}
+- {grapheme: "ng", phonemes: [tw/NG]}
+- {grapheme: "ngh", phonemes: [tw/NG]}
+- {grapheme: "pa", phonemes: [tw/p, tw/a]}
+- {grapheme: "pann", phonemes: [tw/p, tw/a, tw/nn]}
+- {grapheme: "pam", phonemes: [tw/p, tw/a, tw/M]}
+- {grapheme: "pan", phonemes: [tw/p, tw/a, tw/N]}
+- {grapheme: "pang", phonemes: [tw/p, tw/a, tw/NG]}
+- {grapheme: "pap", phonemes: [tw/p, tw/a, tw/P]}
+- {grapheme: "pat", phonemes: [tw/p, tw/a, tw/T]}
+- {grapheme: "pak", phonemes: [tw/p, tw/a, tw/K]}
+- {grapheme: "pah", phonemes: [tw/p, tw/a]}
+- {grapheme: "pannh", phonemes: [tw/p, tw/a, tw/nn]}
+- {grapheme: "pai", phonemes: [tw/p, tw/ai]}
+- {grapheme: "painn", phonemes: [tw/p, tw/ai, tw/nn]}
+- {grapheme: "paih", phonemes: [tw/p, tw/ai]}
+- {grapheme: "painnh", phonemes: [tw/p, tw/ai, tw/nn]}
+- {grapheme: "pau", phonemes: [tw/p, tw/au]}
+- {grapheme: "pauh", phonemes: [tw/p, tw/au]}
+- {grapheme: "pe", phonemes: [tw/p, tw/e]}
+- {grapheme: "penn", phonemes: [tw/p, tw/e, tw/nn]}
+- {grapheme: "peh", phonemes: [tw/p, tw/e]}
+- {grapheme: "pennh", phonemes: [tw/p, tw/e, tw/nn]}
+- {grapheme: "pi", phonemes: [tw/p, tw/i]}
+- {grapheme: "pinn", phonemes: [tw/p, tw/i, tw/nn]}
+- {grapheme: "pim", phonemes: [tw/p, tw/i, tw/M]}
+- {grapheme: "pin", phonemes: [tw/p, tw/i, tw/N]}
+- {grapheme: "ping", phonemes: [tw/p, tw/i, tw/NG]}
+- {grapheme: "pip", phonemes: [tw/p, tw/i, tw/P]}
+- {grapheme: "pit", phonemes: [tw/p, tw/i, tw/T]}
+- {grapheme: "pik", phonemes: [tw/p, tw/i, tw/K]}
+- {grapheme: "pih", phonemes: [tw/p, tw/i]}
+- {grapheme: "pinnh", phonemes: [tw/p, tw/i, tw/nn]}
+- {grapheme: "pia", phonemes: [tw/p, tw/y, tw/a]}
+- {grapheme: "piann", phonemes: [tw/p, tw/y, tw/a, tw/nn]}
+- {grapheme: "piam", phonemes: [tw/p, tw/y, tw/a, tw/M]}
+- {grapheme: "pian", phonemes: [tw/p, tw/y, tw/a, tw/N]}
+- {grapheme: "piang", phonemes: [tw/p, tw/y, tw/a, tw/NG]}
+- {grapheme: "piap", phonemes: [tw/p, tw/y, tw/a, tw/P]}
+- {grapheme: "piat", phonemes: [tw/p, tw/y, tw/a, tw/T]}
+- {grapheme: "piak", phonemes: [tw/p, tw/y, tw/a, tw/K]}
+- {grapheme: "piah", phonemes: [tw/p, tw/y, tw/a]}
+- {grapheme: "piannh", phonemes: [tw/p, tw/y, tw/a, tw/nn]}
+- {grapheme: "piau", phonemes: [tw/p, tw/y, tw/au]}
+- {grapheme: "piaunn", phonemes: [tw/p, tw/y, tw/au, tw/nn]}
+- {grapheme: "piauh", phonemes: [tw/p, tw/y, tw/au]}
+- {grapheme: "pio", phonemes: [tw/p, tw/y, tw/o]}
+- {grapheme: "pioh", phonemes: [tw/p, tw/y, tw/o]}
+- {grapheme: "piong", phonemes: [tw/p, tw/y, tw/o, tw/NG]}
+- {grapheme: "piok", phonemes: [tw/p, tw/y, tw/o, tw/K]}
+- {grapheme: "piu", phonemes: [tw/p, tw/y, tw/u]}
+- {grapheme: "piunn", phonemes: [tw/p, tw/y, tw/u, tw/nn]}
+- {grapheme: "piuh", phonemes: [tw/p, tw/y, tw/u]}
+- {grapheme: "piunnh", phonemes: [tw/p, tw/y, tw/u, tw/nn]}
+- {grapheme: "po", phonemes: [tw/p, tw/o]}
+- {grapheme: "poh", phonemes: [tw/p, tw/o]}
+- {grapheme: "poo", phonemes: [tw/p, tw/oo]}
+- {grapheme: "ponn", phonemes: [tw/p, tw/o, tw/nn]}
+- {grapheme: "pom", phonemes: [tw/p, tw/o, tw/M]}
+- {grapheme: "pong", phonemes: [tw/p, tw/o, tw/NG]}
+- {grapheme: "pop", phonemes: [tw/p, tw/o, tw/P]}
+- {grapheme: "pok", phonemes: [tw/p, tw/o, tw/K]}
+- {grapheme: "pooh", phonemes: [tw/p, tw/oo]}
+- {grapheme: "ponnh", phonemes: [tw/p, tw/o, tw/nn]}
+- {grapheme: "pu", phonemes: [tw/p, tw/u]}
+- {grapheme: "pun", phonemes: [tw/p, tw/u, tw/N]}
+- {grapheme: "put", phonemes: [tw/p, tw/u, tw/T]}
+- {grapheme: "puh", phonemes: [tw/p, tw/u]}
+- {grapheme: "pua", phonemes: [tw/p, tw/w, tw/a]}
+- {grapheme: "puann", phonemes: [tw/p, tw/w, tw/a, tw/nn]}
+- {grapheme: "puan", phonemes: [tw/p, tw/w, tw/a, tw/N]}
+- {grapheme: "puat", phonemes: [tw/p, tw/w, tw/a, tw/T]}
+- {grapheme: "puah", phonemes: [tw/p, tw/w, tw/a]}
+- {grapheme: "puai", phonemes: [tw/p, tw/w, tw/ai]}
+- {grapheme: "puainn", phonemes: [tw/p, tw/w, tw/ai, tw/nn]}
+- {grapheme: "pue", phonemes: [tw/p, tw/w, tw/e]}
+- {grapheme: "pueh", phonemes: [tw/p, tw/w, tw/e]}
+- {grapheme: "pui", phonemes: [tw/p, tw/w, tw/i]}
+- {grapheme: "pm", phonemes: [tw/p, tw/MM]}
+- {grapheme: "pmh", phonemes: [tw/p, tw/MM]}
+- {grapheme: "png", phonemes: [tw/p, tw/NNG]}
+- {grapheme: "pngh", phonemes: [tw/p, tw/NNG]}
+- {grapheme: "ba", phonemes: [tw/b, tw/a]}
+- {grapheme: "bann", phonemes: [tw/b, tw/a, tw/nn]}
+- {grapheme: "bam", phonemes: [tw/b, tw/a, tw/M]}
+- {grapheme: "ban", phonemes: [tw/b, tw/a, tw/N]}
+- {grapheme: "bang", phonemes: [tw/b, tw/a, tw/NG]}
+- {grapheme: "bap", phonemes: [tw/b, tw/a, tw/P]}
+- {grapheme: "bat", phonemes: [tw/b, tw/a, tw/T]}
+- {grapheme: "bak", phonemes: [tw/b, tw/a, tw/K]}
+- {grapheme: "bah", phonemes: [tw/b, tw/a]}
+- {grapheme: "bannh", phonemes: [tw/b, tw/a, tw/nn]}
+- {grapheme: "bai", phonemes: [tw/b, tw/ai]}
+- {grapheme: "bainn", phonemes: [tw/b, tw/ai, tw/nn]}
+- {grapheme: "baih", phonemes: [tw/b, tw/ai]}
+- {grapheme: "bainnh", phonemes: [tw/b, tw/ai, tw/nn]}
+- {grapheme: "bau", phonemes: [tw/b, tw/au]}
+- {grapheme: "bauh", phonemes: [tw/b, tw/au]}
+- {grapheme: "be", phonemes: [tw/b, tw/e]}
+- {grapheme: "benn", phonemes: [tw/b, tw/e, tw/nn]}
+- {grapheme: "beh", phonemes: [tw/b, tw/e]}
+- {grapheme: "bennh", phonemes: [tw/b, tw/e, tw/nn]}
+- {grapheme: "bi", phonemes: [tw/b, tw/i]}
+- {grapheme: "binn", phonemes: [tw/b, tw/i, tw/nn]}
+- {grapheme: "bim", phonemes: [tw/b, tw/i, tw/M]}
+- {grapheme: "bin", phonemes: [tw/b, tw/i, tw/N]}
+- {grapheme: "bing", phonemes: [tw/b, tw/i, tw/NG]}
+- {grapheme: "bip", phonemes: [tw/b, tw/i, tw/P]}
+- {grapheme: "bit", phonemes: [tw/b, tw/i, tw/T]}
+- {grapheme: "bik", phonemes: [tw/b, tw/i, tw/K]}
+- {grapheme: "bih", phonemes: [tw/b, tw/i]}
+- {grapheme: "binnh", phonemes: [tw/b, tw/i, tw/nn]}
+- {grapheme: "bia", phonemes: [tw/b, tw/y, tw/a]}
+- {grapheme: "biann", phonemes: [tw/b, tw/y, tw/a, tw/nn]}
+- {grapheme: "biam", phonemes: [tw/b, tw/y, tw/a, tw/M]}
+- {grapheme: "bian", phonemes: [tw/b, tw/y, tw/a, tw/N]}
+- {grapheme: "biang", phonemes: [tw/b, tw/y, tw/a, tw/NG]}
+- {grapheme: "biap", phonemes: [tw/b, tw/y, tw/a, tw/P]}
+- {grapheme: "biat", phonemes: [tw/b, tw/y, tw/a, tw/T]}
+- {grapheme: "biak", phonemes: [tw/b, tw/y, tw/a, tw/K]}
+- {grapheme: "biah", phonemes: [tw/b, tw/y, tw/a]}
+- {grapheme: "biannh", phonemes: [tw/b, tw/y, tw/a, tw/nn]}
+- {grapheme: "biau", phonemes: [tw/b, tw/y, tw/au]}
+- {grapheme: "biaunn", phonemes: [tw/b, tw/y, tw/au, tw/nn]}
+- {grapheme: "biauh", phonemes: [tw/b, tw/y, tw/au]}
+- {grapheme: "bio", phonemes: [tw/b, tw/y, tw/o]}
+- {grapheme: "bioh", phonemes: [tw/b, tw/y, tw/o]}
+- {grapheme: "biong", phonemes: [tw/b, tw/y, tw/o, tw/NG]}
+- {grapheme: "biok", phonemes: [tw/b, tw/y, tw/o, tw/K]}
+- {grapheme: "biu", phonemes: [tw/b, tw/y, tw/u]}
+- {grapheme: "biunn", phonemes: [tw/b, tw/y, tw/u, tw/nn]}
+- {grapheme: "biuh", phonemes: [tw/b, tw/y, tw/u]}
+- {grapheme: "biunnh", phonemes: [tw/b, tw/y, tw/u, tw/nn]}
+- {grapheme: "bo", phonemes: [tw/b, tw/o]}
+- {grapheme: "boh", phonemes: [tw/b, tw/o]}
+- {grapheme: "boo", phonemes: [tw/b, tw/oo]}
+- {grapheme: "bonn", phonemes: [tw/b, tw/o, tw/nn]}
+- {grapheme: "bom", phonemes: [tw/b, tw/o, tw/M]}
+- {grapheme: "bong", phonemes: [tw/b, tw/o, tw/NG]}
+- {grapheme: "bop", phonemes: [tw/b, tw/o, tw/P]}
+- {grapheme: "bok", phonemes: [tw/b, tw/o, tw/K]}
+- {grapheme: "booh", phonemes: [tw/b, tw/oo]}
+- {grapheme: "bonnh", phonemes: [tw/b, tw/o, tw/nn]}
+- {grapheme: "bu", phonemes: [tw/b, tw/u]}
+- {grapheme: "bun", phonemes: [tw/b, tw/u, tw/N]}
+- {grapheme: "but", phonemes: [tw/b, tw/u, tw/T]}
+- {grapheme: "buh", phonemes: [tw/b, tw/u]}
+- {grapheme: "bua", phonemes: [tw/b, tw/w, tw/a]}
+- {grapheme: "buann", phonemes: [tw/b, tw/w, tw/a, tw/nn]}
+- {grapheme: "buan", phonemes: [tw/b, tw/w, tw/a, tw/N]}
+- {grapheme: "buat", phonemes: [tw/b, tw/w, tw/a, tw/T]}
+- {grapheme: "buah", phonemes: [tw/b, tw/w, tw/a]}
+- {grapheme: "buai", phonemes: [tw/b, tw/w, tw/ai]}
+- {grapheme: "buainn", phonemes: [tw/b, tw/w, tw/ai, tw/nn]}
+- {grapheme: "bue", phonemes: [tw/b, tw/w, tw/e]}
+- {grapheme: "bueh", phonemes: [tw/b, tw/w, tw/e]}
+- {grapheme: "bui", phonemes: [tw/b, tw/w, tw/i]}
+- {grapheme: "bm", phonemes: [tw/b, tw/MM]}
+- {grapheme: "bmh", phonemes: [tw/b, tw/MM]}
+- {grapheme: "bng", phonemes: [tw/b, tw/NNG]}
+- {grapheme: "bngh", phonemes: [tw/b, tw/NNG]}
+- {grapheme: "pha", phonemes: [tw/ph, tw/a]}
+- {grapheme: "phann", phonemes: [tw/ph, tw/a, tw/nn]}
+- {grapheme: "pham", phonemes: [tw/ph, tw/a, tw/M]}
+- {grapheme: "phan", phonemes: [tw/ph, tw/a, tw/N]}
+- {grapheme: "phang", phonemes: [tw/ph, tw/a, tw/NG]}
+- {grapheme: "phap", phonemes: [tw/ph, tw/a, tw/P]}
+- {grapheme: "phat", phonemes: [tw/ph, tw/a, tw/T]}
+- {grapheme: "phak", phonemes: [tw/ph, tw/a, tw/K]}
+- {grapheme: "phah", phonemes: [tw/ph, tw/a]}
+- {grapheme: "phannh", phonemes: [tw/ph, tw/a, tw/nn]}
+- {grapheme: "phai", phonemes: [tw/ph, tw/ai]}
+- {grapheme: "phainn", phonemes: [tw/ph, tw/ai, tw/nn]}
+- {grapheme: "phaih", phonemes: [tw/ph, tw/ai]}
+- {grapheme: "phainnh", phonemes: [tw/ph, tw/ai, tw/nn]}
+- {grapheme: "phau", phonemes: [tw/ph, tw/au]}
+- {grapheme: "phauh", phonemes: [tw/ph, tw/au]}
+- {grapheme: "phe", phonemes: [tw/ph, tw/e]}
+- {grapheme: "phenn", phonemes: [tw/ph, tw/e, tw/nn]}
+- {grapheme: "pheh", phonemes: [tw/ph, tw/e]}
+- {grapheme: "phennh", phonemes: [tw/ph, tw/e, tw/nn]}
+- {grapheme: "phi", phonemes: [tw/ph, tw/i]}
+- {grapheme: "phinn", phonemes: [tw/ph, tw/i, tw/nn]}
+- {grapheme: "phim", phonemes: [tw/ph, tw/i, tw/M]}
+- {grapheme: "phin", phonemes: [tw/ph, tw/i, tw/N]}
+- {grapheme: "phing", phonemes: [tw/ph, tw/i, tw/NG]}
+- {grapheme: "phip", phonemes: [tw/ph, tw/i, tw/P]}
+- {grapheme: "phit", phonemes: [tw/ph, tw/i, tw/T]}
+- {grapheme: "phik", phonemes: [tw/ph, tw/i, tw/K]}
+- {grapheme: "phih", phonemes: [tw/ph, tw/i]}
+- {grapheme: "phinnh", phonemes: [tw/ph, tw/i, tw/nn]}
+- {grapheme: "phia", phonemes: [tw/ph, tw/y, tw/a]}
+- {grapheme: "phiann", phonemes: [tw/ph, tw/y, tw/a, tw/nn]}
+- {grapheme: "phiam", phonemes: [tw/ph, tw/y, tw/a, tw/M]}
+- {grapheme: "phian", phonemes: [tw/ph, tw/y, tw/a, tw/N]}
+- {grapheme: "phiang", phonemes: [tw/ph, tw/y, tw/a, tw/NG]}
+- {grapheme: "phiap", phonemes: [tw/ph, tw/y, tw/a, tw/P]}
+- {grapheme: "phiat", phonemes: [tw/ph, tw/y, tw/a, tw/T]}
+- {grapheme: "phiak", phonemes: [tw/ph, tw/y, tw/a, tw/K]}
+- {grapheme: "phiah", phonemes: [tw/ph, tw/y, tw/a]}
+- {grapheme: "phiannh", phonemes: [tw/ph, tw/y, tw/a, tw/nn]}
+- {grapheme: "phiau", phonemes: [tw/ph, tw/y, tw/au]}
+- {grapheme: "phiaunn", phonemes: [tw/ph, tw/y, tw/au, tw/nn]}
+- {grapheme: "phiauh", phonemes: [tw/ph, tw/y, tw/au]}
+- {grapheme: "phio", phonemes: [tw/ph, tw/y, tw/o]}
+- {grapheme: "phioh", phonemes: [tw/ph, tw/y, tw/o]}
+- {grapheme: "phiong", phonemes: [tw/ph, tw/y, tw/o, tw/NG]}
+- {grapheme: "phiok", phonemes: [tw/ph, tw/y, tw/o, tw/K]}
+- {grapheme: "phiu", phonemes: [tw/ph, tw/y, tw/u]}
+- {grapheme: "phiunn", phonemes: [tw/ph, tw/y, tw/u, tw/nn]}
+- {grapheme: "phiuh", phonemes: [tw/ph, tw/y, tw/u]}
+- {grapheme: "phiunnh", phonemes: [tw/ph, tw/y, tw/u, tw/nn]}
+- {grapheme: "pho", phonemes: [tw/ph, tw/o]}
+- {grapheme: "phoh", phonemes: [tw/ph, tw/o]}
+- {grapheme: "phoo", phonemes: [tw/ph, tw/oo]}
+- {grapheme: "phonn", phonemes: [tw/ph, tw/o, tw/nn]}
+- {grapheme: "phom", phonemes: [tw/ph, tw/o, tw/M]}
+- {grapheme: "phong", phonemes: [tw/ph, tw/o, tw/NG]}
+- {grapheme: "phop", phonemes: [tw/ph, tw/o, tw/P]}
+- {grapheme: "phok", phonemes: [tw/ph, tw/o, tw/K]}
+- {grapheme: "phooh", phonemes: [tw/ph, tw/oo]}
+- {grapheme: "phonnh", phonemes: [tw/ph, tw/o, tw/nn]}
+- {grapheme: "phu", phonemes: [tw/ph, tw/u]}
+- {grapheme: "phun", phonemes: [tw/ph, tw/u, tw/N]}
+- {grapheme: "phut", phonemes: [tw/ph, tw/u, tw/T]}
+- {grapheme: "phuh", phonemes: [tw/ph, tw/u]}
+- {grapheme: "phua", phonemes: [tw/ph, tw/w, tw/a]}
+- {grapheme: "phuann", phonemes: [tw/ph, tw/w, tw/a, tw/nn]}
+- {grapheme: "phuan", phonemes: [tw/ph, tw/w, tw/a, tw/N]}
+- {grapheme: "phuat", phonemes: [tw/ph, tw/w, tw/a, tw/T]}
+- {grapheme: "phuah", phonemes: [tw/ph, tw/w, tw/a]}
+- {grapheme: "phuai", phonemes: [tw/ph, tw/w, tw/ai]}
+- {grapheme: "phuainn", phonemes: [tw/ph, tw/w, tw/ai, tw/nn]}
+- {grapheme: "phue", phonemes: [tw/ph, tw/w, tw/e]}
+- {grapheme: "phueh", phonemes: [tw/ph, tw/w, tw/e]}
+- {grapheme: "phui", phonemes: [tw/ph, tw/w, tw/i]}
+- {grapheme: "phm", phonemes: [tw/ph, tw/MM]}
+- {grapheme: "phmh", phonemes: [tw/ph, tw/MM]}
+- {grapheme: "phng", phonemes: [tw/ph, tw/NNG]}
+- {grapheme: "phngh", phonemes: [tw/ph, tw/NNG]}
+- {grapheme: "ma", phonemes: [tw/m, tw/a]}
+- {grapheme: "mann", phonemes: [tw/m, tw/a, tw/nn]}
+- {grapheme: "mam", phonemes: [tw/m, tw/a, tw/M]}
+- {grapheme: "man", phonemes: [tw/m, tw/a, tw/N]}
+- {grapheme: "mang", phonemes: [tw/m, tw/a, tw/NG]}
+- {grapheme: "map", phonemes: [tw/m, tw/a, tw/P]}
+- {grapheme: "mat", phonemes: [tw/m, tw/a, tw/T]}
+- {grapheme: "mak", phonemes: [tw/m, tw/a, tw/K]}
+- {grapheme: "mah", phonemes: [tw/m, tw/a]}
+- {grapheme: "mannh", phonemes: [tw/m, tw/a, tw/nn]}
+- {grapheme: "mai", phonemes: [tw/m, tw/ai]}
+- {grapheme: "mainn", phonemes: [tw/m, tw/ai, tw/nn]}
+- {grapheme: "maih", phonemes: [tw/m, tw/ai]}
+- {grapheme: "mainnh", phonemes: [tw/m, tw/ai, tw/nn]}
+- {grapheme: "mau", phonemes: [tw/m, tw/au]}
+- {grapheme: "mauh", phonemes: [tw/m, tw/au]}
+- {grapheme: "me", phonemes: [tw/m, tw/e]}
+- {grapheme: "menn", phonemes: [tw/m, tw/e, tw/nn]}
+- {grapheme: "meh", phonemes: [tw/m, tw/e]}
+- {grapheme: "mennh", phonemes: [tw/m, tw/e, tw/nn]}
+- {grapheme: "mi", phonemes: [tw/m, tw/i]}
+- {grapheme: "minn", phonemes: [tw/m, tw/i, tw/nn]}
+- {grapheme: "mim", phonemes: [tw/m, tw/i, tw/M]}
+- {grapheme: "min", phonemes: [tw/m, tw/i, tw/N]}
+- {grapheme: "ming", phonemes: [tw/m, tw/i, tw/NG]}
+- {grapheme: "mip", phonemes: [tw/m, tw/i, tw/P]}
+- {grapheme: "mit", phonemes: [tw/m, tw/i, tw/T]}
+- {grapheme: "mik", phonemes: [tw/m, tw/i, tw/K]}
+- {grapheme: "mih", phonemes: [tw/m, tw/i]}
+- {grapheme: "minnh", phonemes: [tw/m, tw/i, tw/nn]}
+- {grapheme: "mia", phonemes: [tw/m, tw/y, tw/a]}
+- {grapheme: "miann", phonemes: [tw/m, tw/y, tw/a, tw/nn]}
+- {grapheme: "miam", phonemes: [tw/m, tw/y, tw/a, tw/M]}
+- {grapheme: "mian", phonemes: [tw/m, tw/y, tw/a, tw/N]}
+- {grapheme: "miang", phonemes: [tw/m, tw/y, tw/a, tw/NG]}
+- {grapheme: "miap", phonemes: [tw/m, tw/y, tw/a, tw/P]}
+- {grapheme: "miat", phonemes: [tw/m, tw/y, tw/a, tw/T]}
+- {grapheme: "miak", phonemes: [tw/m, tw/y, tw/a, tw/K]}
+- {grapheme: "miah", phonemes: [tw/m, tw/y, tw/a]}
+- {grapheme: "miannh", phonemes: [tw/m, tw/y, tw/a, tw/nn]}
+- {grapheme: "miau", phonemes: [tw/m, tw/y, tw/au]}
+- {grapheme: "miaunn", phonemes: [tw/m, tw/y, tw/au, tw/nn]}
+- {grapheme: "miauh", phonemes: [tw/m, tw/y, tw/au]}
+- {grapheme: "mio", phonemes: [tw/m, tw/y, tw/o]}
+- {grapheme: "mioh", phonemes: [tw/m, tw/y, tw/o]}
+- {grapheme: "miong", phonemes: [tw/m, tw/y, tw/o, tw/NG]}
+- {grapheme: "miok", phonemes: [tw/m, tw/y, tw/o, tw/K]}
+- {grapheme: "miu", phonemes: [tw/m, tw/y, tw/u]}
+- {grapheme: "miunn", phonemes: [tw/m, tw/y, tw/u, tw/nn]}
+- {grapheme: "miuh", phonemes: [tw/m, tw/y, tw/u]}
+- {grapheme: "miunnh", phonemes: [tw/m, tw/y, tw/u, tw/nn]}
+- {grapheme: "mo", phonemes: [tw/m, tw/o]}
+- {grapheme: "moh", phonemes: [tw/m, tw/o]}
+- {grapheme: "moo", phonemes: [tw/m, tw/oo]}
+- {grapheme: "monn", phonemes: [tw/m, tw/o, tw/nn]}
+- {grapheme: "mom", phonemes: [tw/m, tw/o, tw/M]}
+- {grapheme: "mong", phonemes: [tw/m, tw/o, tw/NG]}
+- {grapheme: "mop", phonemes: [tw/m, tw/o, tw/P]}
+- {grapheme: "mok", phonemes: [tw/m, tw/o, tw/K]}
+- {grapheme: "mooh", phonemes: [tw/m, tw/oo]}
+- {grapheme: "monnh", phonemes: [tw/m, tw/o, tw/nn]}
+- {grapheme: "mu", phonemes: [tw/m, tw/u]}
+- {grapheme: "mun", phonemes: [tw/m, tw/u, tw/N]}
+- {grapheme: "mut", phonemes: [tw/m, tw/u, tw/T]}
+- {grapheme: "muh", phonemes: [tw/m, tw/u]}
+- {grapheme: "mua", phonemes: [tw/m, tw/w, tw/a]}
+- {grapheme: "muann", phonemes: [tw/m, tw/w, tw/a, tw/nn]}
+- {grapheme: "muan", phonemes: [tw/m, tw/w, tw/a, tw/N]}
+- {grapheme: "muat", phonemes: [tw/m, tw/w, tw/a, tw/T]}
+- {grapheme: "muah", phonemes: [tw/m, tw/w, tw/a]}
+- {grapheme: "muai", phonemes: [tw/m, tw/w, tw/ai]}
+- {grapheme: "muainn", phonemes: [tw/m, tw/w, tw/ai, tw/nn]}
+- {grapheme: "mue", phonemes: [tw/m, tw/w, tw/e]}
+- {grapheme: "mueh", phonemes: [tw/m, tw/w, tw/e]}
+- {grapheme: "mui", phonemes: [tw/m, tw/w, tw/i]}
+- {grapheme: "mm", phonemes: [tw/m, tw/MM]}
+- {grapheme: "mmh", phonemes: [tw/m, tw/MM]}
+- {grapheme: "mng", phonemes: [tw/m, tw/NNG]}
+- {grapheme: "mngh", phonemes: [tw/m, tw/NNG]}
+- {grapheme: "ta", phonemes: [tw/t, tw/a]}
+- {grapheme: "tann", phonemes: [tw/t, tw/a, tw/nn]}
+- {grapheme: "tam", phonemes: [tw/t, tw/a, tw/M]}
+- {grapheme: "tan", phonemes: [tw/t, tw/a, tw/N]}
+- {grapheme: "tang", phonemes: [tw/t, tw/a, tw/NG]}
+- {grapheme: "tap", phonemes: [tw/t, tw/a, tw/P]}
+- {grapheme: "tat", phonemes: [tw/t, tw/a, tw/T]}
+- {grapheme: "tak", phonemes: [tw/t, tw/a, tw/K]}
+- {grapheme: "tah", phonemes: [tw/t, tw/a]}
+- {grapheme: "tannh", phonemes: [tw/t, tw/a, tw/nn]}
+- {grapheme: "tai", phonemes: [tw/t, tw/ai]}
+- {grapheme: "tainn", phonemes: [tw/t, tw/ai, tw/nn]}
+- {grapheme: "taih", phonemes: [tw/t, tw/ai]}
+- {grapheme: "tainnh", phonemes: [tw/t, tw/ai, tw/nn]}
+- {grapheme: "tau", phonemes: [tw/t, tw/au]}
+- {grapheme: "tauh", phonemes: [tw/t, tw/au]}
+- {grapheme: "te", phonemes: [tw/t, tw/e]}
+- {grapheme: "tenn", phonemes: [tw/t, tw/e, tw/nn]}
+- {grapheme: "teh", phonemes: [tw/t, tw/e]}
+- {grapheme: "tennh", phonemes: [tw/t, tw/e, tw/nn]}
+- {grapheme: "ti", phonemes: [tw/t, tw/i]}
+- {grapheme: "tinn", phonemes: [tw/t, tw/i, tw/nn]}
+- {grapheme: "tim", phonemes: [tw/t, tw/i, tw/M]}
+- {grapheme: "tin", phonemes: [tw/t, tw/i, tw/N]}
+- {grapheme: "ting", phonemes: [tw/t, tw/i, tw/NG]}
+- {grapheme: "tip", phonemes: [tw/t, tw/i, tw/P]}
+- {grapheme: "tit", phonemes: [tw/t, tw/i, tw/T]}
+- {grapheme: "tik", phonemes: [tw/t, tw/i, tw/K]}
+- {grapheme: "tih", phonemes: [tw/t, tw/i]}
+- {grapheme: "tinnh", phonemes: [tw/t, tw/i, tw/nn]}
+- {grapheme: "tia", phonemes: [tw/t, tw/y, tw/a]}
+- {grapheme: "tiann", phonemes: [tw/t, tw/y, tw/a, tw/nn]}
+- {grapheme: "tiam", phonemes: [tw/t, tw/y, tw/a, tw/M]}
+- {grapheme: "tian", phonemes: [tw/t, tw/y, tw/a, tw/N]}
+- {grapheme: "tiang", phonemes: [tw/t, tw/y, tw/a, tw/NG]}
+- {grapheme: "tiap", phonemes: [tw/t, tw/y, tw/a, tw/P]}
+- {grapheme: "tiat", phonemes: [tw/t, tw/y, tw/a, tw/T]}
+- {grapheme: "tiak", phonemes: [tw/t, tw/y, tw/a, tw/K]}
+- {grapheme: "tiah", phonemes: [tw/t, tw/y, tw/a]}
+- {grapheme: "tiannh", phonemes: [tw/t, tw/y, tw/a, tw/nn]}
+- {grapheme: "tiau", phonemes: [tw/t, tw/y, tw/au]}
+- {grapheme: "tiaunn", phonemes: [tw/t, tw/y, tw/au, tw/nn]}
+- {grapheme: "tiauh", phonemes: [tw/t, tw/y, tw/au]}
+- {grapheme: "tio", phonemes: [tw/t, tw/y, tw/o]}
+- {grapheme: "tioh", phonemes: [tw/t, tw/y, tw/o]}
+- {grapheme: "tiong", phonemes: [tw/t, tw/y, tw/o, tw/NG]}
+- {grapheme: "tiok", phonemes: [tw/t, tw/y, tw/o, tw/K]}
+- {grapheme: "tiu", phonemes: [tw/t, tw/y, tw/u]}
+- {grapheme: "tiunn", phonemes: [tw/t, tw/y, tw/u, tw/nn]}
+- {grapheme: "tiuh", phonemes: [tw/t, tw/y, tw/u]}
+- {grapheme: "tiunnh", phonemes: [tw/t, tw/y, tw/u, tw/nn]}
+- {grapheme: "to", phonemes: [tw/t, tw/o]}
+- {grapheme: "toh", phonemes: [tw/t, tw/o]}
+- {grapheme: "too", phonemes: [tw/t, tw/oo]}
+- {grapheme: "tonn", phonemes: [tw/t, tw/o, tw/nn]}
+- {grapheme: "tom", phonemes: [tw/t, tw/o, tw/M]}
+- {grapheme: "tong", phonemes: [tw/t, tw/o, tw/NG]}
+- {grapheme: "top", phonemes: [tw/t, tw/o, tw/P]}
+- {grapheme: "tok", phonemes: [tw/t, tw/o, tw/K]}
+- {grapheme: "tooh", phonemes: [tw/t, tw/oo]}
+- {grapheme: "tonnh", phonemes: [tw/t, tw/o, tw/nn]}
+- {grapheme: "tu", phonemes: [tw/t, tw/u]}
+- {grapheme: "tun", phonemes: [tw/t, tw/u, tw/N]}
+- {grapheme: "tut", phonemes: [tw/t, tw/u, tw/T]}
+- {grapheme: "tuh", phonemes: [tw/t, tw/u]}
+- {grapheme: "tua", phonemes: [tw/t, tw/w, tw/a]}
+- {grapheme: "tuann", phonemes: [tw/t, tw/w, tw/a, tw/nn]}
+- {grapheme: "tuan", phonemes: [tw/t, tw/w, tw/a, tw/N]}
+- {grapheme: "tuat", phonemes: [tw/t, tw/w, tw/a, tw/T]}
+- {grapheme: "tuah", phonemes: [tw/t, tw/w, tw/a]}
+- {grapheme: "tuai", phonemes: [tw/t, tw/w, tw/ai]}
+- {grapheme: "tuainn", phonemes: [tw/t, tw/w, tw/ai, tw/nn]}
+- {grapheme: "tue", phonemes: [tw/t, tw/w, tw/e]}
+- {grapheme: "tueh", phonemes: [tw/t, tw/w, tw/e]}
+- {grapheme: "tui", phonemes: [tw/t, tw/w, tw/i]}
+- {grapheme: "tm", phonemes: [tw/t, tw/MM]}
+- {grapheme: "tmh", phonemes: [tw/t, tw/MM]}
+- {grapheme: "tng", phonemes: [tw/t, tw/NNG]}
+- {grapheme: "tngh", phonemes: [tw/t, tw/NNG]}
+- {grapheme: "tha", phonemes: [tw/th, tw/a]}
+- {grapheme: "thann", phonemes: [tw/th, tw/a, tw/nn]}
+- {grapheme: "tham", phonemes: [tw/th, tw/a, tw/M]}
+- {grapheme: "than", phonemes: [tw/th, tw/a, tw/N]}
+- {grapheme: "thang", phonemes: [tw/th, tw/a, tw/NG]}
+- {grapheme: "thap", phonemes: [tw/th, tw/a, tw/P]}
+- {grapheme: "that", phonemes: [tw/th, tw/a, tw/T]}
+- {grapheme: "thak", phonemes: [tw/th, tw/a, tw/K]}
+- {grapheme: "thah", phonemes: [tw/th, tw/a]}
+- {grapheme: "thannh", phonemes: [tw/th, tw/a, tw/nn]}
+- {grapheme: "thai", phonemes: [tw/th, tw/ai]}
+- {grapheme: "thainn", phonemes: [tw/th, tw/ai, tw/nn]}
+- {grapheme: "thaih", phonemes: [tw/th, tw/ai]}
+- {grapheme: "thainnh", phonemes: [tw/th, tw/ai, tw/nn]}
+- {grapheme: "thau", phonemes: [tw/th, tw/au]}
+- {grapheme: "thauh", phonemes: [tw/th, tw/au]}
+- {grapheme: "the", phonemes: [tw/th, tw/e]}
+- {grapheme: "thenn", phonemes: [tw/th, tw/e, tw/nn]}
+- {grapheme: "theh", phonemes: [tw/th, tw/e]}
+- {grapheme: "thennh", phonemes: [tw/th, tw/e, tw/nn]}
+- {grapheme: "thi", phonemes: [tw/th, tw/i]}
+- {grapheme: "thinn", phonemes: [tw/th, tw/i, tw/nn]}
+- {grapheme: "thim", phonemes: [tw/th, tw/i, tw/M]}
+- {grapheme: "thin", phonemes: [tw/th, tw/i, tw/N]}
+- {grapheme: "thing", phonemes: [tw/th, tw/i, tw/NG]}
+- {grapheme: "thip", phonemes: [tw/th, tw/i, tw/P]}
+- {grapheme: "thit", phonemes: [tw/th, tw/i, tw/T]}
+- {grapheme: "thik", phonemes: [tw/th, tw/i, tw/K]}
+- {grapheme: "thih", phonemes: [tw/th, tw/i]}
+- {grapheme: "thinnh", phonemes: [tw/th, tw/i, tw/nn]}
+- {grapheme: "thia", phonemes: [tw/th, tw/y, tw/a]}
+- {grapheme: "thiann", phonemes: [tw/th, tw/y, tw/a, tw/nn]}
+- {grapheme: "thiam", phonemes: [tw/th, tw/y, tw/a, tw/M]}
+- {grapheme: "thian", phonemes: [tw/th, tw/y, tw/a, tw/N]}
+- {grapheme: "thiang", phonemes: [tw/th, tw/y, tw/a, tw/NG]}
+- {grapheme: "thiap", phonemes: [tw/th, tw/y, tw/a, tw/P]}
+- {grapheme: "thiat", phonemes: [tw/th, tw/y, tw/a, tw/T]}
+- {grapheme: "thiak", phonemes: [tw/th, tw/y, tw/a, tw/K]}
+- {grapheme: "thiah", phonemes: [tw/th, tw/y, tw/a]}
+- {grapheme: "thiannh", phonemes: [tw/th, tw/y, tw/a, tw/nn]}
+- {grapheme: "thiau", phonemes: [tw/th, tw/y, tw/au]}
+- {grapheme: "thiaunn", phonemes: [tw/th, tw/y, tw/au, tw/nn]}
+- {grapheme: "thiauh", phonemes: [tw/th, tw/y, tw/au]}
+- {grapheme: "thio", phonemes: [tw/th, tw/y, tw/o]}
+- {grapheme: "thioh", phonemes: [tw/th, tw/y, tw/o]}
+- {grapheme: "thiong", phonemes: [tw/th, tw/y, tw/o, tw/NG]}
+- {grapheme: "thiok", phonemes: [tw/th, tw/y, tw/o, tw/K]}
+- {grapheme: "thiu", phonemes: [tw/th, tw/y, tw/u]}
+- {grapheme: "thiunn", phonemes: [tw/th, tw/y, tw/u, tw/nn]}
+- {grapheme: "thiuh", phonemes: [tw/th, tw/y, tw/u]}
+- {grapheme: "thiunnh", phonemes: [tw/th, tw/y, tw/u, tw/nn]}
+- {grapheme: "tho", phonemes: [tw/th, tw/o]}
+- {grapheme: "thoh", phonemes: [tw/th, tw/o]}
+- {grapheme: "thoo", phonemes: [tw/th, tw/oo]}
+- {grapheme: "thonn", phonemes: [tw/th, tw/o, tw/nn]}
+- {grapheme: "thom", phonemes: [tw/th, tw/o, tw/M]}
+- {grapheme: "thong", phonemes: [tw/th, tw/o, tw/NG]}
+- {grapheme: "thop", phonemes: [tw/th, tw/o, tw/P]}
+- {grapheme: "thok", phonemes: [tw/th, tw/o, tw/K]}
+- {grapheme: "thooh", phonemes: [tw/th, tw/oo]}
+- {grapheme: "thonnh", phonemes: [tw/th, tw/o, tw/nn]}
+- {grapheme: "thu", phonemes: [tw/th, tw/u]}
+- {grapheme: "thun", phonemes: [tw/th, tw/u, tw/N]}
+- {grapheme: "thut", phonemes: [tw/th, tw/u, tw/T]}
+- {grapheme: "thuh", phonemes: [tw/th, tw/u]}
+- {grapheme: "thua", phonemes: [tw/th, tw/w, tw/a]}
+- {grapheme: "thuann", phonemes: [tw/th, tw/w, tw/a, tw/nn]}
+- {grapheme: "thuan", phonemes: [tw/th, tw/w, tw/a, tw/N]}
+- {grapheme: "thuat", phonemes: [tw/th, tw/w, tw/a, tw/T]}
+- {grapheme: "thuah", phonemes: [tw/th, tw/w, tw/a]}
+- {grapheme: "thuai", phonemes: [tw/th, tw/w, tw/ai]}
+- {grapheme: "thuainn", phonemes: [tw/th, tw/w, tw/ai, tw/nn]}
+- {grapheme: "thue", phonemes: [tw/th, tw/w, tw/e]}
+- {grapheme: "thueh", phonemes: [tw/th, tw/w, tw/e]}
+- {grapheme: "thui", phonemes: [tw/th, tw/w, tw/i]}
+- {grapheme: "thm", phonemes: [tw/th, tw/MM]}
+- {grapheme: "thmh", phonemes: [tw/th, tw/MM]}
+- {grapheme: "thng", phonemes: [tw/th, tw/NNG]}
+- {grapheme: "thngh", phonemes: [tw/th, tw/NNG]}
+- {grapheme: "na", phonemes: [tw/n, tw/a]}
+- {grapheme: "nann", phonemes: [tw/n, tw/a, tw/nn]}
+- {grapheme: "nam", phonemes: [tw/n, tw/a, tw/M]}
+- {grapheme: "nan", phonemes: [tw/n, tw/a, tw/N]}
+- {grapheme: "nang", phonemes: [tw/n, tw/a, tw/NG]}
+- {grapheme: "nap", phonemes: [tw/n, tw/a, tw/P]}
+- {grapheme: "nat", phonemes: [tw/n, tw/a, tw/T]}
+- {grapheme: "nak", phonemes: [tw/n, tw/a, tw/K]}
+- {grapheme: "nah", phonemes: [tw/n, tw/a]}
+- {grapheme: "nannh", phonemes: [tw/n, tw/a, tw/nn]}
+- {grapheme: "nai", phonemes: [tw/n, tw/ai]}
+- {grapheme: "nainn", phonemes: [tw/n, tw/ai, tw/nn]}
+- {grapheme: "naih", phonemes: [tw/n, tw/ai]}
+- {grapheme: "nainnh", phonemes: [tw/n, tw/ai, tw/nn]}
+- {grapheme: "nau", phonemes: [tw/n, tw/au]}
+- {grapheme: "nauh", phonemes: [tw/n, tw/au]}
+- {grapheme: "ne", phonemes: [tw/n, tw/e]}
+- {grapheme: "nenn", phonemes: [tw/n, tw/e, tw/nn]}
+- {grapheme: "neh", phonemes: [tw/n, tw/e]}
+- {grapheme: "nennh", phonemes: [tw/n, tw/e, tw/nn]}
+- {grapheme: "ni", phonemes: [tw/n, tw/i]}
+- {grapheme: "ninn", phonemes: [tw/n, tw/i, tw/nn]}
+- {grapheme: "nim", phonemes: [tw/n, tw/i, tw/M]}
+- {grapheme: "nin", phonemes: [tw/n, tw/i, tw/N]}
+- {grapheme: "ning", phonemes: [tw/n, tw/i, tw/NG]}
+- {grapheme: "nip", phonemes: [tw/n, tw/i, tw/P]}
+- {grapheme: "nit", phonemes: [tw/n, tw/i, tw/T]}
+- {grapheme: "nik", phonemes: [tw/n, tw/i, tw/K]}
+- {grapheme: "nih", phonemes: [tw/n, tw/i]}
+- {grapheme: "ninnh", phonemes: [tw/n, tw/i, tw/nn]}
+- {grapheme: "nia", phonemes: [tw/n, tw/y, tw/a]}
+- {grapheme: "niann", phonemes: [tw/n, tw/y, tw/a, tw/nn]}
+- {grapheme: "niam", phonemes: [tw/n, tw/y, tw/a, tw/M]}
+- {grapheme: "nian", phonemes: [tw/n, tw/y, tw/a, tw/N]}
+- {grapheme: "niang", phonemes: [tw/n, tw/y, tw/a, tw/NG]}
+- {grapheme: "niap", phonemes: [tw/n, tw/y, tw/a, tw/P]}
+- {grapheme: "niat", phonemes: [tw/n, tw/y, tw/a, tw/T]}
+- {grapheme: "niak", phonemes: [tw/n, tw/y, tw/a, tw/K]}
+- {grapheme: "niah", phonemes: [tw/n, tw/y, tw/a]}
+- {grapheme: "niannh", phonemes: [tw/n, tw/y, tw/a, tw/nn]}
+- {grapheme: "niau", phonemes: [tw/n, tw/y, tw/au]}
+- {grapheme: "niaunn", phonemes: [tw/n, tw/y, tw/au, tw/nn]}
+- {grapheme: "niauh", phonemes: [tw/n, tw/y, tw/au]}
+- {grapheme: "nio", phonemes: [tw/n, tw/y, tw/o]}
+- {grapheme: "nioh", phonemes: [tw/n, tw/y, tw/o]}
+- {grapheme: "niong", phonemes: [tw/n, tw/y, tw/o, tw/NG]}
+- {grapheme: "niok", phonemes: [tw/n, tw/y, tw/o, tw/K]}
+- {grapheme: "niu", phonemes: [tw/n, tw/y, tw/u]}
+- {grapheme: "niunn", phonemes: [tw/n, tw/y, tw/u, tw/nn]}
+- {grapheme: "niuh", phonemes: [tw/n, tw/y, tw/u]}
+- {grapheme: "niunnh", phonemes: [tw/n, tw/y, tw/u, tw/nn]}
+- {grapheme: "no", phonemes: [tw/n, tw/o]}
+- {grapheme: "noh", phonemes: [tw/n, tw/o]}
+- {grapheme: "noo", phonemes: [tw/n, tw/oo]}
+- {grapheme: "nonn", phonemes: [tw/n, tw/o, tw/nn]}
+- {grapheme: "nom", phonemes: [tw/n, tw/o, tw/M]}
+- {grapheme: "nong", phonemes: [tw/n, tw/o, tw/NG]}
+- {grapheme: "nop", phonemes: [tw/n, tw/o, tw/P]}
+- {grapheme: "nok", phonemes: [tw/n, tw/o, tw/K]}
+- {grapheme: "nooh", phonemes: [tw/n, tw/oo]}
+- {grapheme: "nonnh", phonemes: [tw/n, tw/o, tw/nn]}
+- {grapheme: "nu", phonemes: [tw/n, tw/u]}
+- {grapheme: "nun", phonemes: [tw/n, tw/u, tw/N]}
+- {grapheme: "nut", phonemes: [tw/n, tw/u, tw/T]}
+- {grapheme: "nuh", phonemes: [tw/n, tw/u]}
+- {grapheme: "nua", phonemes: [tw/n, tw/w, tw/a]}
+- {grapheme: "nuann", phonemes: [tw/n, tw/w, tw/a, tw/nn]}
+- {grapheme: "nuan", phonemes: [tw/n, tw/w, tw/a, tw/N]}
+- {grapheme: "nuat", phonemes: [tw/n, tw/w, tw/a, tw/T]}
+- {grapheme: "nuah", phonemes: [tw/n, tw/w, tw/a]}
+- {grapheme: "nuai", phonemes: [tw/n, tw/w, tw/ai]}
+- {grapheme: "nuainn", phonemes: [tw/n, tw/w, tw/ai, tw/nn]}
+- {grapheme: "nue", phonemes: [tw/n, tw/w, tw/e]}
+- {grapheme: "nueh", phonemes: [tw/n, tw/w, tw/e]}
+- {grapheme: "nui", phonemes: [tw/n, tw/w, tw/i]}
+- {grapheme: "nm", phonemes: [tw/n, tw/MM]}
+- {grapheme: "nmh", phonemes: [tw/n, tw/MM]}
+- {grapheme: "nng", phonemes: [tw/n, tw/NNG]}
+- {grapheme: "nngh", phonemes: [tw/n, tw/NNG]}
+- {grapheme: "la", phonemes: [tw/l, tw/a]}
+- {grapheme: "lann", phonemes: [tw/l, tw/a, tw/nn]}
+- {grapheme: "lam", phonemes: [tw/l, tw/a, tw/M]}
+- {grapheme: "lan", phonemes: [tw/l, tw/a, tw/N]}
+- {grapheme: "lang", phonemes: [tw/l, tw/a, tw/NG]}
+- {grapheme: "lap", phonemes: [tw/l, tw/a, tw/P]}
+- {grapheme: "lat", phonemes: [tw/l, tw/a, tw/T]}
+- {grapheme: "lak", phonemes: [tw/l, tw/a, tw/K]}
+- {grapheme: "lah", phonemes: [tw/l, tw/a]}
+- {grapheme: "lannh", phonemes: [tw/l, tw/a, tw/nn]}
+- {grapheme: "lai", phonemes: [tw/l, tw/ai]}
+- {grapheme: "lainn", phonemes: [tw/l, tw/ai, tw/nn]}
+- {grapheme: "laih", phonemes: [tw/l, tw/ai]}
+- {grapheme: "lainnh", phonemes: [tw/l, tw/ai, tw/nn]}
+- {grapheme: "lau", phonemes: [tw/l, tw/au]}
+- {grapheme: "lauh", phonemes: [tw/l, tw/au]}
+- {grapheme: "le", phonemes: [tw/l, tw/e]}
+- {grapheme: "lenn", phonemes: [tw/l, tw/e, tw/nn]}
+- {grapheme: "leh", phonemes: [tw/l, tw/e]}
+- {grapheme: "lennh", phonemes: [tw/l, tw/e, tw/nn]}
+- {grapheme: "li", phonemes: [tw/l, tw/i]}
+- {grapheme: "linn", phonemes: [tw/l, tw/i, tw/nn]}
+- {grapheme: "lim", phonemes: [tw/l, tw/i, tw/M]}
+- {grapheme: "lin", phonemes: [tw/l, tw/i, tw/N]}
+- {grapheme: "ling", phonemes: [tw/l, tw/i, tw/NG]}
+- {grapheme: "lip", phonemes: [tw/l, tw/i, tw/P]}
+- {grapheme: "lit", phonemes: [tw/l, tw/i, tw/T]}
+- {grapheme: "lik", phonemes: [tw/l, tw/i, tw/K]}
+- {grapheme: "lih", phonemes: [tw/l, tw/i]}
+- {grapheme: "linnh", phonemes: [tw/l, tw/i, tw/nn]}
+- {grapheme: "lia", phonemes: [tw/l, tw/y, tw/a]}
+- {grapheme: "liann", phonemes: [tw/l, tw/y, tw/a, tw/nn]}
+- {grapheme: "liam", phonemes: [tw/l, tw/y, tw/a, tw/M]}
+- {grapheme: "lian", phonemes: [tw/l, tw/y, tw/a, tw/N]}
+- {grapheme: "liang", phonemes: [tw/l, tw/y, tw/a, tw/NG]}
+- {grapheme: "liap", phonemes: [tw/l, tw/y, tw/a, tw/P]}
+- {grapheme: "liat", phonemes: [tw/l, tw/y, tw/a, tw/T]}
+- {grapheme: "liak", phonemes: [tw/l, tw/y, tw/a, tw/K]}
+- {grapheme: "liah", phonemes: [tw/l, tw/y, tw/a]}
+- {grapheme: "liannh", phonemes: [tw/l, tw/y, tw/a, tw/nn]}
+- {grapheme: "liau", phonemes: [tw/l, tw/y, tw/au]}
+- {grapheme: "liaunn", phonemes: [tw/l, tw/y, tw/au, tw/nn]}
+- {grapheme: "liauh", phonemes: [tw/l, tw/y, tw/au]}
+- {grapheme: "lio", phonemes: [tw/l, tw/y, tw/o]}
+- {grapheme: "lioh", phonemes: [tw/l, tw/y, tw/o]}
+- {grapheme: "liong", phonemes: [tw/l, tw/y, tw/o, tw/NG]}
+- {grapheme: "liok", phonemes: [tw/l, tw/y, tw/o, tw/K]}
+- {grapheme: "liu", phonemes: [tw/l, tw/y, tw/u]}
+- {grapheme: "liunn", phonemes: [tw/l, tw/y, tw/u, tw/nn]}
+- {grapheme: "liuh", phonemes: [tw/l, tw/y, tw/u]}
+- {grapheme: "liunnh", phonemes: [tw/l, tw/y, tw/u, tw/nn]}
+- {grapheme: "lo", phonemes: [tw/l, tw/o]}
+- {grapheme: "loh", phonemes: [tw/l, tw/o]}
+- {grapheme: "loo", phonemes: [tw/l, tw/oo]}
+- {grapheme: "lonn", phonemes: [tw/l, tw/o, tw/nn]}
+- {grapheme: "lom", phonemes: [tw/l, tw/o, tw/M]}
+- {grapheme: "long", phonemes: [tw/l, tw/o, tw/NG]}
+- {grapheme: "lop", phonemes: [tw/l, tw/o, tw/P]}
+- {grapheme: "lok", phonemes: [tw/l, tw/o, tw/K]}
+- {grapheme: "looh", phonemes: [tw/l, tw/oo]}
+- {grapheme: "lonnh", phonemes: [tw/l, tw/o, tw/nn]}
+- {grapheme: "lu", phonemes: [tw/l, tw/u]}
+- {grapheme: "lun", phonemes: [tw/l, tw/u, tw/N]}
+- {grapheme: "lut", phonemes: [tw/l, tw/u, tw/T]}
+- {grapheme: "luh", phonemes: [tw/l, tw/u]}
+- {grapheme: "lua", phonemes: [tw/l, tw/w, tw/a]}
+- {grapheme: "luann", phonemes: [tw/l, tw/w, tw/a, tw/nn]}
+- {grapheme: "luan", phonemes: [tw/l, tw/w, tw/a, tw/N]}
+- {grapheme: "luat", phonemes: [tw/l, tw/w, tw/a, tw/T]}
+- {grapheme: "luah", phonemes: [tw/l, tw/w, tw/a]}
+- {grapheme: "luai", phonemes: [tw/l, tw/w, tw/ai]}
+- {grapheme: "luainn", phonemes: [tw/l, tw/w, tw/ai, tw/nn]}
+- {grapheme: "lue", phonemes: [tw/l, tw/w, tw/e]}
+- {grapheme: "lueh", phonemes: [tw/l, tw/w, tw/e]}
+- {grapheme: "lui", phonemes: [tw/l, tw/w, tw/i]}
+- {grapheme: "lm", phonemes: [tw/l, tw/MM]}
+- {grapheme: "lmh", phonemes: [tw/l, tw/MM]}
+- {grapheme: "lng", phonemes: [tw/l, tw/NNG]}
+- {grapheme: "lngh", phonemes: [tw/l, tw/NNG]}
+- {grapheme: "ka", phonemes: [tw/k, tw/a]}
+- {grapheme: "kann", phonemes: [tw/k, tw/a, tw/nn]}
+- {grapheme: "kam", phonemes: [tw/k, tw/a, tw/M]}
+- {grapheme: "kan", phonemes: [tw/k, tw/a, tw/N]}
+- {grapheme: "kang", phonemes: [tw/k, tw/a, tw/NG]}
+- {grapheme: "kap", phonemes: [tw/k, tw/a, tw/P]}
+- {grapheme: "kat", phonemes: [tw/k, tw/a, tw/T]}
+- {grapheme: "kak", phonemes: [tw/k, tw/a, tw/K]}
+- {grapheme: "kah", phonemes: [tw/k, tw/a]}
+- {grapheme: "kannh", phonemes: [tw/k, tw/a, tw/nn]}
+- {grapheme: "kai", phonemes: [tw/k, tw/ai]}
+- {grapheme: "kainn", phonemes: [tw/k, tw/ai, tw/nn]}
+- {grapheme: "kaih", phonemes: [tw/k, tw/ai]}
+- {grapheme: "kainnh", phonemes: [tw/k, tw/ai, tw/nn]}
+- {grapheme: "kau", phonemes: [tw/k, tw/au]}
+- {grapheme: "kauh", phonemes: [tw/k, tw/au]}
+- {grapheme: "ke", phonemes: [tw/k, tw/e]}
+- {grapheme: "kenn", phonemes: [tw/k, tw/e, tw/nn]}
+- {grapheme: "keh", phonemes: [tw/k, tw/e]}
+- {grapheme: "kennh", phonemes: [tw/k, tw/e, tw/nn]}
+- {grapheme: "ki", phonemes: [tw/k, tw/i]}
+- {grapheme: "kinn", phonemes: [tw/k, tw/i, tw/nn]}
+- {grapheme: "kim", phonemes: [tw/k, tw/i, tw/M]}
+- {grapheme: "kin", phonemes: [tw/k, tw/i, tw/N]}
+- {grapheme: "king", phonemes: [tw/k, tw/i, tw/NG]}
+- {grapheme: "kip", phonemes: [tw/k, tw/i, tw/P]}
+- {grapheme: "kit", phonemes: [tw/k, tw/i, tw/T]}
+- {grapheme: "kik", phonemes: [tw/k, tw/i, tw/K]}
+- {grapheme: "kih", phonemes: [tw/k, tw/i]}
+- {grapheme: "kinnh", phonemes: [tw/k, tw/i, tw/nn]}
+- {grapheme: "kia", phonemes: [tw/k, tw/y, tw/a]}
+- {grapheme: "kiann", phonemes: [tw/k, tw/y, tw/a, tw/nn]}
+- {grapheme: "kiam", phonemes: [tw/k, tw/y, tw/a, tw/M]}
+- {grapheme: "kian", phonemes: [tw/k, tw/y, tw/a, tw/N]}
+- {grapheme: "kiang", phonemes: [tw/k, tw/y, tw/a, tw/NG]}
+- {grapheme: "kiap", phonemes: [tw/k, tw/y, tw/a, tw/P]}
+- {grapheme: "kiat", phonemes: [tw/k, tw/y, tw/a, tw/T]}
+- {grapheme: "kiak", phonemes: [tw/k, tw/y, tw/a, tw/K]}
+- {grapheme: "kiah", phonemes: [tw/k, tw/y, tw/a]}
+- {grapheme: "kiannh", phonemes: [tw/k, tw/y, tw/a, tw/nn]}
+- {grapheme: "kiau", phonemes: [tw/k, tw/y, tw/au]}
+- {grapheme: "kiaunn", phonemes: [tw/k, tw/y, tw/au, tw/nn]}
+- {grapheme: "kiauh", phonemes: [tw/k, tw/y, tw/au]}
+- {grapheme: "kio", phonemes: [tw/k, tw/y, tw/o]}
+- {grapheme: "kioh", phonemes: [tw/k, tw/y, tw/o]}
+- {grapheme: "kiong", phonemes: [tw/k, tw/y, tw/o, tw/NG]}
+- {grapheme: "kiok", phonemes: [tw/k, tw/y, tw/o, tw/K]}
+- {grapheme: "kiu", phonemes: [tw/k, tw/y, tw/u]}
+- {grapheme: "kiunn", phonemes: [tw/k, tw/y, tw/u, tw/nn]}
+- {grapheme: "kiuh", phonemes: [tw/k, tw/y, tw/u]}
+- {grapheme: "kiunnh", phonemes: [tw/k, tw/y, tw/u, tw/nn]}
+- {grapheme: "ko", phonemes: [tw/k, tw/o]}
+- {grapheme: "koh", phonemes: [tw/k, tw/o]}
+- {grapheme: "koo", phonemes: [tw/k, tw/oo]}
+- {grapheme: "konn", phonemes: [tw/k, tw/o, tw/nn]}
+- {grapheme: "kom", phonemes: [tw/k, tw/o, tw/M]}
+- {grapheme: "kong", phonemes: [tw/k, tw/o, tw/NG]}
+- {grapheme: "kop", phonemes: [tw/k, tw/o, tw/P]}
+- {grapheme: "kok", phonemes: [tw/k, tw/o, tw/K]}
+- {grapheme: "kooh", phonemes: [tw/k, tw/oo]}
+- {grapheme: "konnh", phonemes: [tw/k, tw/o, tw/nn]}
+- {grapheme: "ku", phonemes: [tw/k, tw/u]}
+- {grapheme: "kun", phonemes: [tw/k, tw/u, tw/N]}
+- {grapheme: "kut", phonemes: [tw/k, tw/u, tw/T]}
+- {grapheme: "kuh", phonemes: [tw/k, tw/u]}
+- {grapheme: "kua", phonemes: [tw/k, tw/w, tw/a]}
+- {grapheme: "kuann", phonemes: [tw/k, tw/w, tw/a, tw/nn]}
+- {grapheme: "kuan", phonemes: [tw/k, tw/w, tw/a, tw/N]}
+- {grapheme: "kuat", phonemes: [tw/k, tw/w, tw/a, tw/T]}
+- {grapheme: "kuah", phonemes: [tw/k, tw/w, tw/a]}
+- {grapheme: "kuai", phonemes: [tw/k, tw/w, tw/ai]}
+- {grapheme: "kuainn", phonemes: [tw/k, tw/w, tw/ai, tw/nn]}
+- {grapheme: "kue", phonemes: [tw/k, tw/w, tw/e]}
+- {grapheme: "kueh", phonemes: [tw/k, tw/w, tw/e]}
+- {grapheme: "kui", phonemes: [tw/k, tw/w, tw/i]}
+- {grapheme: "km", phonemes: [tw/k, tw/MM]}
+- {grapheme: "kmh", phonemes: [tw/k, tw/MM]}
+- {grapheme: "kng", phonemes: [tw/k, tw/NNG]}
+- {grapheme: "kngh", phonemes: [tw/k, tw/NNG]}
+- {grapheme: "ga", phonemes: [tw/g, tw/a]}
+- {grapheme: "gann", phonemes: [tw/g, tw/a, tw/nn]}
+- {grapheme: "gam", phonemes: [tw/g, tw/a, tw/M]}
+- {grapheme: "gan", phonemes: [tw/g, tw/a, tw/N]}
+- {grapheme: "gang", phonemes: [tw/g, tw/a, tw/NG]}
+- {grapheme: "gap", phonemes: [tw/g, tw/a, tw/P]}
+- {grapheme: "gat", phonemes: [tw/g, tw/a, tw/T]}
+- {grapheme: "gak", phonemes: [tw/g, tw/a, tw/K]}
+- {grapheme: "gah", phonemes: [tw/g, tw/a]}
+- {grapheme: "gannh", phonemes: [tw/g, tw/a, tw/nn]}
+- {grapheme: "gai", phonemes: [tw/g, tw/ai]}
+- {grapheme: "gainn", phonemes: [tw/g, tw/ai, tw/nn]}
+- {grapheme: "gaih", phonemes: [tw/g, tw/ai]}
+- {grapheme: "gainnh", phonemes: [tw/g, tw/ai, tw/nn]}
+- {grapheme: "gau", phonemes: [tw/g, tw/au]}
+- {grapheme: "gauh", phonemes: [tw/g, tw/au]}
+- {grapheme: "ge", phonemes: [tw/g, tw/e]}
+- {grapheme: "genn", phonemes: [tw/g, tw/e, tw/nn]}
+- {grapheme: "geh", phonemes: [tw/g, tw/e]}
+- {grapheme: "gennh", phonemes: [tw/g, tw/e, tw/nn]}
+- {grapheme: "gi", phonemes: [tw/g, tw/i]}
+- {grapheme: "ginn", phonemes: [tw/g, tw/i, tw/nn]}
+- {grapheme: "gim", phonemes: [tw/g, tw/i, tw/M]}
+- {grapheme: "gin", phonemes: [tw/g, tw/i, tw/N]}
+- {grapheme: "ging", phonemes: [tw/g, tw/i, tw/NG]}
+- {grapheme: "gip", phonemes: [tw/g, tw/i, tw/P]}
+- {grapheme: "git", phonemes: [tw/g, tw/i, tw/T]}
+- {grapheme: "gik", phonemes: [tw/g, tw/i, tw/K]}
+- {grapheme: "gih", phonemes: [tw/g, tw/i]}
+- {grapheme: "ginnh", phonemes: [tw/g, tw/i, tw/nn]}
+- {grapheme: "gia", phonemes: [tw/g, tw/y, tw/a]}
+- {grapheme: "giann", phonemes: [tw/g, tw/y, tw/a, tw/nn]}
+- {grapheme: "giam", phonemes: [tw/g, tw/y, tw/a, tw/M]}
+- {grapheme: "gian", phonemes: [tw/g, tw/y, tw/a, tw/N]}
+- {grapheme: "giang", phonemes: [tw/g, tw/y, tw/a, tw/NG]}
+- {grapheme: "giap", phonemes: [tw/g, tw/y, tw/a, tw/P]}
+- {grapheme: "giat", phonemes: [tw/g, tw/y, tw/a, tw/T]}
+- {grapheme: "giak", phonemes: [tw/g, tw/y, tw/a, tw/K]}
+- {grapheme: "giah", phonemes: [tw/g, tw/y, tw/a]}
+- {grapheme: "giannh", phonemes: [tw/g, tw/y, tw/a, tw/nn]}
+- {grapheme: "giau", phonemes: [tw/g, tw/y, tw/au]}
+- {grapheme: "giaunn", phonemes: [tw/g, tw/y, tw/au, tw/nn]}
+- {grapheme: "giauh", phonemes: [tw/g, tw/y, tw/au]}
+- {grapheme: "gio", phonemes: [tw/g, tw/y, tw/o]}
+- {grapheme: "gioh", phonemes: [tw/g, tw/y, tw/o]}
+- {grapheme: "giong", phonemes: [tw/g, tw/y, tw/o, tw/NG]}
+- {grapheme: "giok", phonemes: [tw/g, tw/y, tw/o, tw/K]}
+- {grapheme: "giu", phonemes: [tw/g, tw/y, tw/u]}
+- {grapheme: "giunn", phonemes: [tw/g, tw/y, tw/u, tw/nn]}
+- {grapheme: "giuh", phonemes: [tw/g, tw/y, tw/u]}
+- {grapheme: "giunnh", phonemes: [tw/g, tw/y, tw/u, tw/nn]}
+- {grapheme: "go", phonemes: [tw/g, tw/o]}
+- {grapheme: "goh", phonemes: [tw/g, tw/o]}
+- {grapheme: "goo", phonemes: [tw/g, tw/oo]}
+- {grapheme: "gonn", phonemes: [tw/g, tw/o, tw/nn]}
+- {grapheme: "gom", phonemes: [tw/g, tw/o, tw/M]}
+- {grapheme: "gong", phonemes: [tw/g, tw/o, tw/NG]}
+- {grapheme: "gop", phonemes: [tw/g, tw/o, tw/P]}
+- {grapheme: "gok", phonemes: [tw/g, tw/o, tw/K]}
+- {grapheme: "gooh", phonemes: [tw/g, tw/oo]}
+- {grapheme: "gonnh", phonemes: [tw/g, tw/o, tw/nn]}
+- {grapheme: "gu", phonemes: [tw/g, tw/u]}
+- {grapheme: "gun", phonemes: [tw/g, tw/u, tw/N]}
+- {grapheme: "gut", phonemes: [tw/g, tw/u, tw/T]}
+- {grapheme: "guh", phonemes: [tw/g, tw/u]}
+- {grapheme: "gua", phonemes: [tw/g, tw/w, tw/a]}
+- {grapheme: "guann", phonemes: [tw/g, tw/w, tw/a, tw/nn]}
+- {grapheme: "guan", phonemes: [tw/g, tw/w, tw/a, tw/N]}
+- {grapheme: "guat", phonemes: [tw/g, tw/w, tw/a, tw/T]}
+- {grapheme: "guah", phonemes: [tw/g, tw/w, tw/a]}
+- {grapheme: "guai", phonemes: [tw/g, tw/w, tw/ai]}
+- {grapheme: "guainn", phonemes: [tw/g, tw/w, tw/ai, tw/nn]}
+- {grapheme: "gue", phonemes: [tw/g, tw/w, tw/e]}
+- {grapheme: "gueh", phonemes: [tw/g, tw/w, tw/e]}
+- {grapheme: "gui", phonemes: [tw/g, tw/w, tw/i]}
+- {grapheme: "gm", phonemes: [tw/g, tw/MM]}
+- {grapheme: "gmh", phonemes: [tw/g, tw/MM]}
+- {grapheme: "gng", phonemes: [tw/g, tw/NNG]}
+- {grapheme: "gngh", phonemes: [tw/g, tw/NNG]}
+- {grapheme: "kha", phonemes: [tw/kh, tw/a]}
+- {grapheme: "khann", phonemes: [tw/kh, tw/a, tw/nn]}
+- {grapheme: "kham", phonemes: [tw/kh, tw/a, tw/M]}
+- {grapheme: "khan", phonemes: [tw/kh, tw/a, tw/N]}
+- {grapheme: "khang", phonemes: [tw/kh, tw/a, tw/NG]}
+- {grapheme: "khap", phonemes: [tw/kh, tw/a, tw/P]}
+- {grapheme: "khat", phonemes: [tw/kh, tw/a, tw/T]}
+- {grapheme: "khak", phonemes: [tw/kh, tw/a, tw/K]}
+- {grapheme: "khah", phonemes: [tw/kh, tw/a]}
+- {grapheme: "khannh", phonemes: [tw/kh, tw/a, tw/nn]}
+- {grapheme: "khai", phonemes: [tw/kh, tw/ai]}
+- {grapheme: "khainn", phonemes: [tw/kh, tw/ai, tw/nn]}
+- {grapheme: "khaih", phonemes: [tw/kh, tw/ai]}
+- {grapheme: "khainnh", phonemes: [tw/kh, tw/ai, tw/nn]}
+- {grapheme: "khau", phonemes: [tw/kh, tw/au]}
+- {grapheme: "khauh", phonemes: [tw/kh, tw/au]}
+- {grapheme: "khe", phonemes: [tw/kh, tw/e]}
+- {grapheme: "khenn", phonemes: [tw/kh, tw/e, tw/nn]}
+- {grapheme: "kheh", phonemes: [tw/kh, tw/e]}
+- {grapheme: "khennh", phonemes: [tw/kh, tw/e, tw/nn]}
+- {grapheme: "khi", phonemes: [tw/kh, tw/i]}
+- {grapheme: "khinn", phonemes: [tw/kh, tw/i, tw/nn]}
+- {grapheme: "khim", phonemes: [tw/kh, tw/i, tw/M]}
+- {grapheme: "khin", phonemes: [tw/kh, tw/i, tw/N]}
+- {grapheme: "khing", phonemes: [tw/kh, tw/i, tw/NG]}
+- {grapheme: "khip", phonemes: [tw/kh, tw/i, tw/P]}
+- {grapheme: "khit", phonemes: [tw/kh, tw/i, tw/T]}
+- {grapheme: "khik", phonemes: [tw/kh, tw/i, tw/K]}
+- {grapheme: "khih", phonemes: [tw/kh, tw/i]}
+- {grapheme: "khinnh", phonemes: [tw/kh, tw/i, tw/nn]}
+- {grapheme: "khia", phonemes: [tw/kh, tw/y, tw/a]}
+- {grapheme: "khiann", phonemes: [tw/kh, tw/y, tw/a, tw/nn]}
+- {grapheme: "khiam", phonemes: [tw/kh, tw/y, tw/a, tw/M]}
+- {grapheme: "khian", phonemes: [tw/kh, tw/y, tw/a, tw/N]}
+- {grapheme: "khiang", phonemes: [tw/kh, tw/y, tw/a, tw/NG]}
+- {grapheme: "khiap", phonemes: [tw/kh, tw/y, tw/a, tw/P]}
+- {grapheme: "khiat", phonemes: [tw/kh, tw/y, tw/a, tw/T]}
+- {grapheme: "khiak", phonemes: [tw/kh, tw/y, tw/a, tw/K]}
+- {grapheme: "khiah", phonemes: [tw/kh, tw/y, tw/a]}
+- {grapheme: "khiannh", phonemes: [tw/kh, tw/y, tw/a, tw/nn]}
+- {grapheme: "khiau", phonemes: [tw/kh, tw/y, tw/au]}
+- {grapheme: "khiaunn", phonemes: [tw/kh, tw/y, tw/au, tw/nn]}
+- {grapheme: "khiauh", phonemes: [tw/kh, tw/y, tw/au]}
+- {grapheme: "khio", phonemes: [tw/kh, tw/y, tw/o]}
+- {grapheme: "khioh", phonemes: [tw/kh, tw/y, tw/o]}
+- {grapheme: "khiong", phonemes: [tw/kh, tw/y, tw/o, tw/NG]}
+- {grapheme: "khiok", phonemes: [tw/kh, tw/y, tw/o, tw/K]}
+- {grapheme: "khiu", phonemes: [tw/kh, tw/y, tw/u]}
+- {grapheme: "khiunn", phonemes: [tw/kh, tw/y, tw/u, tw/nn]}
+- {grapheme: "khiuh", phonemes: [tw/kh, tw/y, tw/u]}
+- {grapheme: "khiunnh", phonemes: [tw/kh, tw/y, tw/u, tw/nn]}
+- {grapheme: "kho", phonemes: [tw/kh, tw/o]}
+- {grapheme: "khoh", phonemes: [tw/kh, tw/o]}
+- {grapheme: "khoo", phonemes: [tw/kh, tw/oo]}
+- {grapheme: "khonn", phonemes: [tw/kh, tw/o, tw/nn]}
+- {grapheme: "khom", phonemes: [tw/kh, tw/o, tw/M]}
+- {grapheme: "khong", phonemes: [tw/kh, tw/o, tw/NG]}
+- {grapheme: "khop", phonemes: [tw/kh, tw/o, tw/P]}
+- {grapheme: "khok", phonemes: [tw/kh, tw/o, tw/K]}
+- {grapheme: "khooh", phonemes: [tw/kh, tw/oo]}
+- {grapheme: "khonnh", phonemes: [tw/kh, tw/o, tw/nn]}
+- {grapheme: "khu", phonemes: [tw/kh, tw/u]}
+- {grapheme: "khun", phonemes: [tw/kh, tw/u, tw/N]}
+- {grapheme: "khut", phonemes: [tw/kh, tw/u, tw/T]}
+- {grapheme: "khuh", phonemes: [tw/kh, tw/u]}
+- {grapheme: "khua", phonemes: [tw/kh, tw/w, tw/a]}
+- {grapheme: "khuann", phonemes: [tw/kh, tw/w, tw/a, tw/nn]}
+- {grapheme: "khuan", phonemes: [tw/kh, tw/w, tw/a, tw/N]}
+- {grapheme: "khuat", phonemes: [tw/kh, tw/w, tw/a, tw/T]}
+- {grapheme: "khuah", phonemes: [tw/kh, tw/w, tw/a]}
+- {grapheme: "khuai", phonemes: [tw/kh, tw/w, tw/ai]}
+- {grapheme: "khuainn", phonemes: [tw/kh, tw/w, tw/ai, tw/nn]}
+- {grapheme: "khue", phonemes: [tw/kh, tw/w, tw/e]}
+- {grapheme: "khueh", phonemes: [tw/kh, tw/w, tw/e]}
+- {grapheme: "khui", phonemes: [tw/kh, tw/w, tw/i]}
+- {grapheme: "khm", phonemes: [tw/kh, tw/MM]}
+- {grapheme: "khmh", phonemes: [tw/kh, tw/MM]}
+- {grapheme: "khng", phonemes: [tw/kh, tw/NNG]}
+- {grapheme: "khngh", phonemes: [tw/kh, tw/NNG]}
+- {grapheme: "ha", phonemes: [tw/h, tw/a]}
+- {grapheme: "hann", phonemes: [tw/h, tw/a, tw/nn]}
+- {grapheme: "ham", phonemes: [tw/h, tw/a, tw/M]}
+- {grapheme: "han", phonemes: [tw/h, tw/a, tw/N]}
+- {grapheme: "hang", phonemes: [tw/h, tw/a, tw/NG]}
+- {grapheme: "hap", phonemes: [tw/h, tw/a, tw/P]}
+- {grapheme: "hat", phonemes: [tw/h, tw/a, tw/T]}
+- {grapheme: "hak", phonemes: [tw/h, tw/a, tw/K]}
+- {grapheme: "hah", phonemes: [tw/h, tw/a]}
+- {grapheme: "hannh", phonemes: [tw/h, tw/a, tw/nn]}
+- {grapheme: "hai", phonemes: [tw/h, tw/ai]}
+- {grapheme: "hainn", phonemes: [tw/h, tw/ai, tw/nn]}
+- {grapheme: "haih", phonemes: [tw/h, tw/ai]}
+- {grapheme: "hainnh", phonemes: [tw/h, tw/ai, tw/nn]}
+- {grapheme: "hau", phonemes: [tw/h, tw/au]}
+- {grapheme: "hauh", phonemes: [tw/h, tw/au]}
+- {grapheme: "he", phonemes: [tw/h, tw/e]}
+- {grapheme: "henn", phonemes: [tw/h, tw/e, tw/nn]}
+- {grapheme: "heh", phonemes: [tw/h, tw/e]}
+- {grapheme: "hennh", phonemes: [tw/h, tw/e, tw/nn]}
+- {grapheme: "hi", phonemes: [tw/h, tw/i]}
+- {grapheme: "hinn", phonemes: [tw/h, tw/i, tw/nn]}
+- {grapheme: "him", phonemes: [tw/h, tw/i, tw/M]}
+- {grapheme: "hin", phonemes: [tw/h, tw/i, tw/N]}
+- {grapheme: "hing", phonemes: [tw/h, tw/i, tw/NG]}
+- {grapheme: "hip", phonemes: [tw/h, tw/i, tw/P]}
+- {grapheme: "hit", phonemes: [tw/h, tw/i, tw/T]}
+- {grapheme: "hik", phonemes: [tw/h, tw/i, tw/K]}
+- {grapheme: "hih", phonemes: [tw/h, tw/i]}
+- {grapheme: "hinnh", phonemes: [tw/h, tw/i, tw/nn]}
+- {grapheme: "hia", phonemes: [tw/h, tw/y, tw/a]}
+- {grapheme: "hiann", phonemes: [tw/h, tw/y, tw/a, tw/nn]}
+- {grapheme: "hiam", phonemes: [tw/h, tw/y, tw/a, tw/M]}
+- {grapheme: "hian", phonemes: [tw/h, tw/y, tw/a, tw/N]}
+- {grapheme: "hiang", phonemes: [tw/h, tw/y, tw/a, tw/NG]}
+- {grapheme: "hiap", phonemes: [tw/h, tw/y, tw/a, tw/P]}
+- {grapheme: "hiat", phonemes: [tw/h, tw/y, tw/a, tw/T]}
+- {grapheme: "hiak", phonemes: [tw/h, tw/y, tw/a, tw/K]}
+- {grapheme: "hiah", phonemes: [tw/h, tw/y, tw/a]}
+- {grapheme: "hiannh", phonemes: [tw/h, tw/y, tw/a, tw/nn]}
+- {grapheme: "hiau", phonemes: [tw/h, tw/y, tw/au]}
+- {grapheme: "hiaunn", phonemes: [tw/h, tw/y, tw/au, tw/nn]}
+- {grapheme: "hiauh", phonemes: [tw/h, tw/y, tw/au]}
+- {grapheme: "hio", phonemes: [tw/h, tw/y, tw/o]}
+- {grapheme: "hioh", phonemes: [tw/h, tw/y, tw/o]}
+- {grapheme: "hiong", phonemes: [tw/h, tw/y, tw/o, tw/NG]}
+- {grapheme: "hiok", phonemes: [tw/h, tw/y, tw/o, tw/K]}
+- {grapheme: "hiu", phonemes: [tw/h, tw/y, tw/u]}
+- {grapheme: "hiunn", phonemes: [tw/h, tw/y, tw/u, tw/nn]}
+- {grapheme: "hiuh", phonemes: [tw/h, tw/y, tw/u]}
+- {grapheme: "hiunnh", phonemes: [tw/h, tw/y, tw/u, tw/nn]}
+- {grapheme: "ho", phonemes: [tw/h, tw/o]}
+- {grapheme: "hoh", phonemes: [tw/h, tw/o]}
+- {grapheme: "hoo", phonemes: [tw/h, tw/oo]}
+- {grapheme: "honn", phonemes: [tw/h, tw/o, tw/nn]}
+- {grapheme: "hom", phonemes: [tw/h, tw/o, tw/M]}
+- {grapheme: "hong", phonemes: [tw/h, tw/o, tw/NG]}
+- {grapheme: "hop", phonemes: [tw/h, tw/o, tw/P]}
+- {grapheme: "hok", phonemes: [tw/h, tw/o, tw/K]}
+- {grapheme: "hooh", phonemes: [tw/h, tw/oo]}
+- {grapheme: "honnh", phonemes: [tw/h, tw/o, tw/nn]}
+- {grapheme: "hu", phonemes: [tw/h, tw/u]}
+- {grapheme: "hun", phonemes: [tw/h, tw/u, tw/N]}
+- {grapheme: "hut", phonemes: [tw/h, tw/u, tw/T]}
+- {grapheme: "huh", phonemes: [tw/h, tw/u]}
+- {grapheme: "hua", phonemes: [tw/h, tw/w, tw/a]}
+- {grapheme: "huann", phonemes: [tw/h, tw/w, tw/a, tw/nn]}
+- {grapheme: "huan", phonemes: [tw/h, tw/w, tw/a, tw/N]}
+- {grapheme: "huat", phonemes: [tw/h, tw/w, tw/a, tw/T]}
+- {grapheme: "huah", phonemes: [tw/h, tw/w, tw/a]}
+- {grapheme: "huai", phonemes: [tw/h, tw/w, tw/ai]}
+- {grapheme: "huainn", phonemes: [tw/h, tw/w, tw/ai, tw/nn]}
+- {grapheme: "hue", phonemes: [tw/h, tw/w, tw/e]}
+- {grapheme: "hueh", phonemes: [tw/h, tw/w, tw/e]}
+- {grapheme: "hui", phonemes: [tw/h, tw/w, tw/i]}
+- {grapheme: "hm", phonemes: [tw/h, tw/MM]}
+- {grapheme: "hmh", phonemes: [tw/h, tw/MM]}
+- {grapheme: "hng", phonemes: [tw/h, tw/NNG]}
+- {grapheme: "hngh", phonemes: [tw/h, tw/NNG]}
+- {grapheme: "tsia", phonemes: [tw/tsi, tw/y, tw/a]}
+- {grapheme: "tsiann", phonemes: [tw/tsi, tw/y, tw/a, tw/nn]}
+- {grapheme: "tsiam", phonemes: [tw/tsi, tw/y, tw/a, tw/M]}
+- {grapheme: "tsian", phonemes: [tw/tsi, tw/y, tw/a, tw/N]}
+- {grapheme: "tsiang", phonemes: [tw/tsi, tw/y, tw/a, tw/NG]}
+- {grapheme: "tsiap", phonemes: [tw/tsi, tw/y, tw/a, tw/P]}
+- {grapheme: "tsiat", phonemes: [tw/tsi, tw/y, tw/a, tw/T]}
+- {grapheme: "tsiak", phonemes: [tw/tsi, tw/y, tw/a, tw/K]}
+- {grapheme: "tsiah", phonemes: [tw/tsi, tw/y, tw/a]}
+- {grapheme: "tsiannh", phonemes: [tw/tsi, tw/y, tw/a, tw/nn]}
+- {grapheme: "tsiau", phonemes: [tw/tsi, tw/y, tw/au]}
+- {grapheme: "tsiauh", phonemes: [tw/tsi, tw/y, tw/au]}
+- {grapheme: "tsio", phonemes: [tw/tsi, tw/y, tw/o]}
+- {grapheme: "tsioh", phonemes: [tw/tsi, tw/y, tw/o]}
+- {grapheme: "tsioo", phonemes: [tw/tsi, tw/y, tw/oo]}
+- {grapheme: "tsionn", phonemes: [tw/tsi, tw/y, tw/o, tw/nn]}
+- {grapheme: "tsiom", phonemes: [tw/tsi, tw/y, tw/o, tw/M]}
+- {grapheme: "tsiong", phonemes: [tw/tsi, tw/y, tw/o, tw/NG]}
+- {grapheme: "tsiop", phonemes: [tw/tsi, tw/y, tw/o, tw/P]}
+- {grapheme: "tsiok", phonemes: [tw/tsi, tw/y, tw/o, tw/K]}
+- {grapheme: "tsiooh", phonemes: [tw/tsi, tw/y, tw/oo]}
+- {grapheme: "tsionnh", phonemes: [tw/tsi, tw/y, tw/o, tw/nn]}
+- {grapheme: "tsiu", phonemes: [tw/tsi, tw/y, tw/u]}
+- {grapheme: "tsiun", phonemes: [tw/tsi, tw/y, tw/u, tw/N]}
+- {grapheme: "tsiut", phonemes: [tw/tsi, tw/y, tw/u, tw/T]}
+- {grapheme: "tsiuh", phonemes: [tw/tsi, tw/y, tw/u]}
+- {grapheme: "tsim", phonemes: [tw/tsi, tw/M]}
+- {grapheme: "tsimh", phonemes: [tw/tsi, tw/M]}
+- {grapheme: "tsing", phonemes: [tw/tsi, tw/NG]}
+- {grapheme: "tsingh", phonemes: [tw/tsi, tw/NG]}
+- {grapheme: "tsa", phonemes: [tw/ts, tw/a]}
+- {grapheme: "tsann", phonemes: [tw/ts, tw/a, tw/nn]}
+- {grapheme: "tsam", phonemes: [tw/ts, tw/a, tw/M]}
+- {grapheme: "tsan", phonemes: [tw/ts, tw/a, tw/N]}
+- {grapheme: "tsang", phonemes: [tw/ts, tw/a, tw/NG]}
+- {grapheme: "tsap", phonemes: [tw/ts, tw/a, tw/P]}
+- {grapheme: "tsat", phonemes: [tw/ts, tw/a, tw/T]}
+- {grapheme: "tsak", phonemes: [tw/ts, tw/a, tw/K]}
+- {grapheme: "tsah", phonemes: [tw/ts, tw/a]}
+- {grapheme: "tsannh", phonemes: [tw/ts, tw/a, tw/nn]}
+- {grapheme: "tsai", phonemes: [tw/ts, tw/ai]}
+- {grapheme: "tsainn", phonemes: [tw/ts, tw/ai, tw/nn]}
+- {grapheme: "tsaih", phonemes: [tw/ts, tw/ai]}
+- {grapheme: "tsainnh", phonemes: [tw/ts, tw/ai, tw/nn]}
+- {grapheme: "tsau", phonemes: [tw/ts, tw/au]}
+- {grapheme: "tsauh", phonemes: [tw/ts, tw/au]}
+- {grapheme: "tse", phonemes: [tw/ts, tw/e]}
+- {grapheme: "tsenn", phonemes: [tw/ts, tw/e, tw/nn]}
+- {grapheme: "tseh", phonemes: [tw/ts, tw/e]}
+- {grapheme: "tsennh", phonemes: [tw/ts, tw/e, tw/nn]}
+- {grapheme: "tsi", phonemes: [tw/ts, tw/i]}
+- {grapheme: "tsinn", phonemes: [tw/ts, tw/i, tw/nn]}
+- {grapheme: "tsim", phonemes: [tw/ts, tw/i, tw/M]}
+- {grapheme: "tsin", phonemes: [tw/ts, tw/i, tw/N]}
+- {grapheme: "tsing", phonemes: [tw/ts, tw/i, tw/NG]}
+- {grapheme: "tsip", phonemes: [tw/ts, tw/i, tw/P]}
+- {grapheme: "tsit", phonemes: [tw/ts, tw/i, tw/T]}
+- {grapheme: "tsik", phonemes: [tw/ts, tw/i, tw/K]}
+- {grapheme: "tsih", phonemes: [tw/ts, tw/i]}
+- {grapheme: "tsinnh", phonemes: [tw/ts, tw/i, tw/nn]}
+- {grapheme: "tsia", phonemes: [tw/ts, tw/y, tw/a]}
+- {grapheme: "tsiann", phonemes: [tw/ts, tw/y, tw/a, tw/nn]}
+- {grapheme: "tsiam", phonemes: [tw/ts, tw/y, tw/a, tw/M]}
+- {grapheme: "tsian", phonemes: [tw/ts, tw/y, tw/a, tw/N]}
+- {grapheme: "tsiang", phonemes: [tw/ts, tw/y, tw/a, tw/NG]}
+- {grapheme: "tsiap", phonemes: [tw/ts, tw/y, tw/a, tw/P]}
+- {grapheme: "tsiat", phonemes: [tw/ts, tw/y, tw/a, tw/T]}
+- {grapheme: "tsiak", phonemes: [tw/ts, tw/y, tw/a, tw/K]}
+- {grapheme: "tsiah", phonemes: [tw/ts, tw/y, tw/a]}
+- {grapheme: "tsiannh", phonemes: [tw/ts, tw/y, tw/a, tw/nn]}
+- {grapheme: "tsiau", phonemes: [tw/ts, tw/y, tw/au]}
+- {grapheme: "tsiaunn", phonemes: [tw/ts, tw/y, tw/au, tw/nn]}
+- {grapheme: "tsiauh", phonemes: [tw/ts, tw/y, tw/au]}
+- {grapheme: "tsio", phonemes: [tw/ts, tw/y, tw/o]}
+- {grapheme: "tsioh", phonemes: [tw/ts, tw/y, tw/o]}
+- {grapheme: "tsiong", phonemes: [tw/ts, tw/y, tw/o, tw/NG]}
+- {grapheme: "tsiok", phonemes: [tw/ts, tw/y, tw/o, tw/K]}
+- {grapheme: "tsiu", phonemes: [tw/ts, tw/y, tw/u]}
+- {grapheme: "tsiunn", phonemes: [tw/ts, tw/y, tw/u, tw/nn]}
+- {grapheme: "tsiuh", phonemes: [tw/ts, tw/y, tw/u]}
+- {grapheme: "tsiunnh", phonemes: [tw/ts, tw/y, tw/u, tw/nn]}
+- {grapheme: "tso", phonemes: [tw/ts, tw/o]}
+- {grapheme: "tsoh", phonemes: [tw/ts, tw/o]}
+- {grapheme: "tsoo", phonemes: [tw/ts, tw/oo]}
+- {grapheme: "tsonn", phonemes: [tw/ts, tw/o, tw/nn]}
+- {grapheme: "tsom", phonemes: [tw/ts, tw/o, tw/M]}
+- {grapheme: "tsong", phonemes: [tw/ts, tw/o, tw/NG]}
+- {grapheme: "tsop", phonemes: [tw/ts, tw/o, tw/P]}
+- {grapheme: "tsok", phonemes: [tw/ts, tw/o, tw/K]}
+- {grapheme: "tsooh", phonemes: [tw/ts, tw/oo]}
+- {grapheme: "tsonnh", phonemes: [tw/ts, tw/o, tw/nn]}
+- {grapheme: "tsu", phonemes: [tw/ts, tw/u]}
+- {grapheme: "tsun", phonemes: [tw/ts, tw/u, tw/N]}
+- {grapheme: "tsut", phonemes: [tw/ts, tw/u, tw/T]}
+- {grapheme: "tsuh", phonemes: [tw/ts, tw/u]}
+- {grapheme: "tsua", phonemes: [tw/ts, tw/w, tw/a]}
+- {grapheme: "tsuann", phonemes: [tw/ts, tw/w, tw/a, tw/nn]}
+- {grapheme: "tsuan", phonemes: [tw/ts, tw/w, tw/a, tw/N]}
+- {grapheme: "tsuat", phonemes: [tw/ts, tw/w, tw/a, tw/T]}
+- {grapheme: "tsuah", phonemes: [tw/ts, tw/w, tw/a]}
+- {grapheme: "tsuai", phonemes: [tw/ts, tw/w, tw/ai]}
+- {grapheme: "tsuainn", phonemes: [tw/ts, tw/w, tw/ai, tw/nn]}
+- {grapheme: "tsue", phonemes: [tw/ts, tw/w, tw/e]}
+- {grapheme: "tsueh", phonemes: [tw/ts, tw/w, tw/e]}
+- {grapheme: "tsui", phonemes: [tw/ts, tw/w, tw/i]}
+- {grapheme: "tsm", phonemes: [tw/ts, tw/MM]}
+- {grapheme: "tsmh", phonemes: [tw/ts, tw/MM]}
+- {grapheme: "tsng", phonemes: [tw/ts, tw/NNG]}
+- {grapheme: "tsngh", phonemes: [tw/ts, tw/NNG]}
+- {grapheme: "ja", phonemes: [tw/j, tw/a]}
+- {grapheme: "jann", phonemes: [tw/j, tw/a, tw/nn]}
+- {grapheme: "jam", phonemes: [tw/j, tw/a, tw/M]}
+- {grapheme: "jan", phonemes: [tw/j, tw/a, tw/N]}
+- {grapheme: "jang", phonemes: [tw/j, tw/a, tw/NG]}
+- {grapheme: "jap", phonemes: [tw/j, tw/a, tw/P]}
+- {grapheme: "jat", phonemes: [tw/j, tw/a, tw/T]}
+- {grapheme: "jak", phonemes: [tw/j, tw/a, tw/K]}
+- {grapheme: "jah", phonemes: [tw/j, tw/a]}
+- {grapheme: "jannh", phonemes: [tw/j, tw/a, tw/nn]}
+- {grapheme: "jai", phonemes: [tw/j, tw/ai]}
+- {grapheme: "jainn", phonemes: [tw/j, tw/ai, tw/nn]}
+- {grapheme: "jaih", phonemes: [tw/j, tw/ai]}
+- {grapheme: "jainnh", phonemes: [tw/j, tw/ai, tw/nn]}
+- {grapheme: "jau", phonemes: [tw/j, tw/au]}
+- {grapheme: "jauh", phonemes: [tw/j, tw/au]}
+- {grapheme: "je", phonemes: [tw/j, tw/e]}
+- {grapheme: "jenn", phonemes: [tw/j, tw/e, tw/nn]}
+- {grapheme: "jeh", phonemes: [tw/j, tw/e]}
+- {grapheme: "jennh", phonemes: [tw/j, tw/e, tw/nn]}
+- {grapheme: "ji", phonemes: [tw/ji, tw/y]}
+- {grapheme: "jinn", phonemes: [tw/ji, tw/y, tw/nn]}
+- {grapheme: "jim", phonemes: [tw/ji, tw/y, tw/MM]}
+- {grapheme: "jin", phonemes: [tw/ji, tw/y, tw/N]}
+- {grapheme: "jing", phonemes: [tw/ji, tw/y, tw/NNG]}
+- {grapheme: "jip", phonemes: [tw/ji, tw/y, tw/P]}
+- {grapheme: "jit", phonemes: [tw/ji, tw/y, tw/T]}
+- {grapheme: "jik", phonemes: [tw/ji, tw/y, tw/K]}
+- {grapheme: "jih", phonemes: [tw/ji, tw/y]}
+- {grapheme: "jinnh", phonemes: [tw/ji, tw/y, tw/nn]}
+- {grapheme: "jia", phonemes: [tw/ji, tw/y, tw/a]}
+- {grapheme: "jiann", phonemes: [tw/ji, tw/y, tw/a, tw/nn]}
+- {grapheme: "jiam", phonemes: [tw/ji, tw/y, tw/a, tw/M]}
+- {grapheme: "jian", phonemes: [tw/ji, tw/y, tw/a, tw/N]}
+- {grapheme: "jiang", phonemes: [tw/ji, tw/y, tw/a, tw/NG]}
+- {grapheme: "jiap", phonemes: [tw/ji, tw/y, tw/a, tw/P]}
+- {grapheme: "jiat", phonemes: [tw/ji, tw/y, tw/a, tw/T]}
+- {grapheme: "jiak", phonemes: [tw/ji, tw/y, tw/a, tw/K]}
+- {grapheme: "jiah", phonemes: [tw/ji, tw/y, tw/a]}
+- {grapheme: "jiannh", phonemes: [tw/ji, tw/y, tw/a, tw/nn]}
+- {grapheme: "jiau", phonemes: [tw/ji, tw/y, tw/au]}
+- {grapheme: "jiauh", phonemes: [tw/ji, tw/y, tw/au]}
+- {grapheme: "jio", phonemes: [tw/ji, tw/y, tw/o]}
+- {grapheme: "jioh", phonemes: [tw/ji, tw/y, tw/o]}
+- {grapheme: "jioo", phonemes: [tw/ji, tw/y, tw/oo]}
+- {grapheme: "jionn", phonemes: [tw/ji, tw/y, tw/o, tw/nn]}
+- {grapheme: "jiom", phonemes: [tw/ji, tw/y, tw/o, tw/M]}
+- {grapheme: "jiong", phonemes: [tw/ji, tw/y, tw/o, tw/NG]}
+- {grapheme: "jiop", phonemes: [tw/ji, tw/y, tw/o, tw/P]}
+- {grapheme: "jiok", phonemes: [tw/ji, tw/y, tw/o, tw/K]}
+- {grapheme: "jiooh", phonemes: [tw/ji, tw/y, tw/oo]}
+- {grapheme: "jionnh", phonemes: [tw/ji, tw/y, tw/o, tw/nn]}
+- {grapheme: "jiu", phonemes: [tw/ji, tw/y, tw/u]}
+- {grapheme: "jiun", phonemes: [tw/ji, tw/y, tw/u, tw/N]}
+- {grapheme: "jiut", phonemes: [tw/ji, tw/y, tw/u, tw/T]}
+- {grapheme: "jiuh", phonemes: [tw/ji, tw/y, tw/u]}
+- {grapheme: "jim", phonemes: [tw/ji, tw/M]}
+- {grapheme: "jimh", phonemes: [tw/ji, tw/M]}
+- {grapheme: "jing", phonemes: [tw/ji, tw/NG]}
+- {grapheme: "jingh", phonemes: [tw/ji, tw/NG]}
+- {grapheme: "jo", phonemes: [tw/j, tw/o]}
+- {grapheme: "joh", phonemes: [tw/j, tw/o]}
+- {grapheme: "joo", phonemes: [tw/j, tw/oo]}
+- {grapheme: "jonn", phonemes: [tw/j, tw/o, tw/nn]}
+- {grapheme: "jom", phonemes: [tw/j, tw/o, tw/M]}
+- {grapheme: "jong", phonemes: [tw/j, tw/o, tw/NG]}
+- {grapheme: "jop", phonemes: [tw/j, tw/o, tw/P]}
+- {grapheme: "jok", phonemes: [tw/j, tw/o, tw/K]}
+- {grapheme: "jooh", phonemes: [tw/j, tw/oo]}
+- {grapheme: "jonnh", phonemes: [tw/j, tw/o, tw/nn]}
+- {grapheme: "ju", phonemes: [tw/j, tw/u]}
+- {grapheme: "jun", phonemes: [tw/j, tw/u, tw/N]}
+- {grapheme: "jut", phonemes: [tw/j, tw/u, tw/T]}
+- {grapheme: "juh", phonemes: [tw/j, tw/u]}
+- {grapheme: "jua", phonemes: [tw/j, tw/w, tw/a]}
+- {grapheme: "juann", phonemes: [tw/j, tw/w, tw/a, tw/nn]}
+- {grapheme: "juan", phonemes: [tw/j, tw/w, tw/a, tw/N]}
+- {grapheme: "juat", phonemes: [tw/j, tw/w, tw/a, tw/T]}
+- {grapheme: "juah", phonemes: [tw/j, tw/w, tw/a]}
+- {grapheme: "juai", phonemes: [tw/j, tw/w, tw/ai]}
+- {grapheme: "juainn", phonemes: [tw/j, tw/w, tw/ai, tw/nn]}
+- {grapheme: "jue", phonemes: [tw/j, tw/w, tw/e]}
+- {grapheme: "jueh", phonemes: [tw/j, tw/w, tw/e]}
+- {grapheme: "jui", phonemes: [tw/j, tw/w, tw/i]}
+- {grapheme: "jm", phonemes: [tw/j, tw/MM]}
+- {grapheme: "jmh", phonemes: [tw/j, tw/MM]}
+- {grapheme: "jng", phonemes: [tw/j, tw/NNG]}
+- {grapheme: "jngh", phonemes: [tw/j, tw/NNG]}
+- {grapheme: "tsha", phonemes: [tw/tsh, tw/a]}
+- {grapheme: "tshann", phonemes: [tw/tsh, tw/a, tw/nn]}
+- {grapheme: "tsham", phonemes: [tw/tsh, tw/a, tw/M]}
+- {grapheme: "tshan", phonemes: [tw/tsh, tw/a, tw/N]}
+- {grapheme: "tshang", phonemes: [tw/tsh, tw/a, tw/NG]}
+- {grapheme: "tshap", phonemes: [tw/tsh, tw/a, tw/P]}
+- {grapheme: "tshat", phonemes: [tw/tsh, tw/a, tw/T]}
+- {grapheme: "tshak", phonemes: [tw/tsh, tw/a, tw/K]}
+- {grapheme: "tshah", phonemes: [tw/tsh, tw/a]}
+- {grapheme: "tshannh", phonemes: [tw/tsh, tw/a, tw/nn]}
+- {grapheme: "tshai", phonemes: [tw/tsh, tw/ai]}
+- {grapheme: "tshainn", phonemes: [tw/tsh, tw/ai, tw/nn]}
+- {grapheme: "tshaih", phonemes: [tw/tsh, tw/ai]}
+- {grapheme: "tshainnh", phonemes: [tw/tsh, tw/ai, tw/nn]}
+- {grapheme: "tshau", phonemes: [tw/tsh, tw/au]}
+- {grapheme: "tshauh", phonemes: [tw/tsh, tw/au]}
+- {grapheme: "tshe", phonemes: [tw/tsh, tw/e]}
+- {grapheme: "tshenn", phonemes: [tw/tsh, tw/e, tw/nn]}
+- {grapheme: "tsheh", phonemes: [tw/tsh, tw/e]}
+- {grapheme: "tshennh", phonemes: [tw/tsh, tw/e, tw/nn]}
+- {grapheme: "tshi", phonemes: [tw/tshi, tw/i]}
+- {grapheme: "tshinn", phonemes: [tw/tshi, tw/i, tw/nn]}
+- {grapheme: "tshim", phonemes: [tw/tshi, tw/i, tw/M]}
+- {grapheme: "tshin", phonemes: [tw/tshi, tw/i, tw/N]}
+- {grapheme: "tshing", phonemes: [tw/tshi, tw/i, tw/NG]}
+- {grapheme: "tship", phonemes: [tw/tshi, tw/i, tw/P]}
+- {grapheme: "tshit", phonemes: [tw/tshi, tw/i, tw/T]}
+- {grapheme: "tshik", phonemes: [tw/tshi, tw/i, tw/K]}
+- {grapheme: "tshih", phonemes: [tw/tshi, tw/i]}
+- {grapheme: "tshinnh", phonemes: [tw/tshi, tw/i, tw/nn]}
+- {grapheme: "tshia", phonemes: [tw/tshi, tw/y, tw/a]}
+- {grapheme: "tshiann", phonemes: [tw/tshi, tw/y, tw/a, tw/nn]}
+- {grapheme: "tshiam", phonemes: [tw/tshi, tw/y, tw/a, tw/M]}
+- {grapheme: "tshian", phonemes: [tw/tshi, tw/y, tw/a, tw/N]}
+- {grapheme: "tshiang", phonemes: [tw/tshi, tw/y, tw/a, tw/NG]}
+- {grapheme: "tshiap", phonemes: [tw/tshi, tw/y, tw/a, tw/P]}
+- {grapheme: "tshiat", phonemes: [tw/tshi, tw/y, tw/a, tw/T]}
+- {grapheme: "tshiak", phonemes: [tw/tshi, tw/y, tw/a, tw/K]}
+- {grapheme: "tshiah", phonemes: [tw/tshi, tw/y, tw/a]}
+- {grapheme: "tshiannh", phonemes: [tw/tshi, tw/y, tw/a, tw/nn]}
+- {grapheme: "tshiau", phonemes: [tw/tshi, tw/y, tw/au]}
+- {grapheme: "tshiaunn", phonemes: [tw/tshi, tw/y, tw/au, tw/nn]}
+- {grapheme: "tshiauh", phonemes: [tw/tshi, tw/y, tw/au]}
+- {grapheme: "tshio", phonemes: [tw/tshi, tw/y, tw/o]}
+- {grapheme: "tshioh", phonemes: [tw/tshi, tw/y, tw/o]}
+- {grapheme: "tshiong", phonemes: [tw/tshi, tw/y, tw/o, tw/NG]}
+- {grapheme: "tshiok", phonemes: [tw/tshi, tw/y, tw/o, tw/K]}
+- {grapheme: "tshiu", phonemes: [tw/tshi, tw/y, tw/u]}
+- {grapheme: "tshiunn", phonemes: [tw/tshi, tw/y, tw/u, tw/nn]}
+- {grapheme: "tshiuh", phonemes: [tw/tshi, tw/y, tw/u]}
+- {grapheme: "tshiunnh", phonemes: [tw/tshi, tw/y, tw/u, tw/nn]}
+- {grapheme: "tsho", phonemes: [tw/tsh, tw/o]}
+- {grapheme: "tshoh", phonemes: [tw/tsh, tw/o]}
+- {grapheme: "tshoo", phonemes: [tw/tsh, tw/oo]}
+- {grapheme: "tshonn", phonemes: [tw/tsh, tw/o, tw/nn]}
+- {grapheme: "tshom", phonemes: [tw/tsh, tw/o, tw/M]}
+- {grapheme: "tshong", phonemes: [tw/tsh, tw/o, tw/NG]}
+- {grapheme: "tshop", phonemes: [tw/tsh, tw/o, tw/P]}
+- {grapheme: "tshok", phonemes: [tw/tsh, tw/o, tw/K]}
+- {grapheme: "tshooh", phonemes: [tw/tsh, tw/oo]}
+- {grapheme: "tshonnh", phonemes: [tw/tsh, tw/o, tw/nn]}
+- {grapheme: "tshu", phonemes: [tw/tsh, tw/u]}
+- {grapheme: "tshun", phonemes: [tw/tsh, tw/u, tw/N]}
+- {grapheme: "tshut", phonemes: [tw/tsh, tw/u, tw/T]}
+- {grapheme: "tshuh", phonemes: [tw/tsh, tw/u]}
+- {grapheme: "tshua", phonemes: [tw/tsh, tw/w, tw/a]}
+- {grapheme: "tshuann", phonemes: [tw/tsh, tw/w, tw/a, tw/nn]}
+- {grapheme: "tshuan", phonemes: [tw/tsh, tw/w, tw/a, tw/N]}
+- {grapheme: "tshuat", phonemes: [tw/tsh, tw/w, tw/a, tw/T]}
+- {grapheme: "tshuah", phonemes: [tw/tsh, tw/w, tw/a]}
+- {grapheme: "tshuai", phonemes: [tw/tsh, tw/w, tw/ai]}
+- {grapheme: "tshuainn", phonemes: [tw/tsh, tw/w, tw/ai, tw/nn]}
+- {grapheme: "tshue", phonemes: [tw/tsh, tw/w, tw/e]}
+- {grapheme: "tshueh", phonemes: [tw/tsh, tw/w, tw/e]}
+- {grapheme: "tshui", phonemes: [tw/tsh, tw/w, tw/i]}
+- {grapheme: "tshm", phonemes: [tw/tsh, tw/MM]}
+- {grapheme: "tshmh", phonemes: [tw/tsh, tw/MM]}
+- {grapheme: "tshng", phonemes: [tw/tsh, tw/NNG]}
+- {grapheme: "tshngh", phonemes: [tw/tsh, tw/NNG]}
+- {grapheme: "sa", phonemes: [tw/s, tw/a]}
+- {grapheme: "sann", phonemes: [tw/s, tw/a, tw/nn]}
+- {grapheme: "sam", phonemes: [tw/s, tw/a, tw/M]}
+- {grapheme: "san", phonemes: [tw/s, tw/a, tw/N]}
+- {grapheme: "sang", phonemes: [tw/s, tw/a, tw/NG]}
+- {grapheme: "sap", phonemes: [tw/s, tw/a, tw/P]}
+- {grapheme: "sat", phonemes: [tw/s, tw/a, tw/T]}
+- {grapheme: "sak", phonemes: [tw/s, tw/a, tw/K]}
+- {grapheme: "sah", phonemes: [tw/s, tw/a]}
+- {grapheme: "sannh", phonemes: [tw/s, tw/a, tw/nn]}
+- {grapheme: "sai", phonemes: [tw/s, tw/ai]}
+- {grapheme: "sainn", phonemes: [tw/s, tw/ai, tw/nn]}
+- {grapheme: "saih", phonemes: [tw/s, tw/ai]}
+- {grapheme: "sainnh", phonemes: [tw/s, tw/ai, tw/nn]}
+- {grapheme: "sau", phonemes: [tw/s, tw/au]}
+- {grapheme: "sauh", phonemes: [tw/s, tw/au]}
+- {grapheme: "se", phonemes: [tw/s, tw/e]}
+- {grapheme: "senn", phonemes: [tw/s, tw/e, tw/nn]}
+- {grapheme: "seh", phonemes: [tw/s, tw/e]}
+- {grapheme: "sennh", phonemes: [tw/s, tw/e, tw/nn]}
+- {grapheme: "si", phonemes: [tw/si, tw/i]}
+- {grapheme: "sinn", phonemes: [tw/si, tw/i, tw/nn]}
+- {grapheme: "sim", phonemes: [tw/si, tw/i, tw/M]}
+- {grapheme: "sin", phonemes: [tw/si, tw/i, tw/N]}
+- {grapheme: "sing", phonemes: [tw/si, tw/i, tw/NG]}
+- {grapheme: "sip", phonemes: [tw/si, tw/i, tw/P]}
+- {grapheme: "sit", phonemes: [tw/si, tw/i, tw/T]}
+- {grapheme: "sik", phonemes: [tw/si, tw/i, tw/K]}
+- {grapheme: "sih", phonemes: [tw/si, tw/i]}
+- {grapheme: "sinnh", phonemes: [tw/si, tw/i, tw/nn]}
+- {grapheme: "sia", phonemes: [tw/si, tw/y, tw/a]}
+- {grapheme: "siann", phonemes: [tw/si, tw/y, tw/a, tw/nn]}
+- {grapheme: "siam", phonemes: [tw/si, tw/y, tw/a, tw/M]}
+- {grapheme: "sian", phonemes: [tw/si, tw/y, tw/a, tw/N]}
+- {grapheme: "siang", phonemes: [tw/si, tw/y, tw/a, tw/NG]}
+- {grapheme: "siap", phonemes: [tw/si, tw/y, tw/a, tw/P]}
+- {grapheme: "siat", phonemes: [tw/si, tw/y, tw/a, tw/T]}
+- {grapheme: "siak", phonemes: [tw/si, tw/y, tw/a, tw/K]}
+- {grapheme: "siah", phonemes: [tw/si, tw/y, tw/a]}
+- {grapheme: "siannh", phonemes: [tw/si, tw/y, tw/a, tw/nn]}
+- {grapheme: "siau", phonemes: [tw/si, tw/y, tw/au]}
+- {grapheme: "siaunn", phonemes: [tw/si, tw/y, tw/au, tw/nn]}
+- {grapheme: "siauh", phonemes: [tw/si, tw/y, tw/au]}
+- {grapheme: "sio", phonemes: [tw/si, tw/y, tw/o]}
+- {grapheme: "sioh", phonemes: [tw/si, tw/y, tw/o]}
+- {grapheme: "siong", phonemes: [tw/si, tw/y, tw/o, tw/NG]}
+- {grapheme: "siok", phonemes: [tw/si, tw/y, tw/o, tw/K]}
+- {grapheme: "siu", phonemes: [tw/si, tw/y, tw/u]}
+- {grapheme: "siunn", phonemes: [tw/si, tw/y, tw/u, tw/nn]}
+- {grapheme: "siuh", phonemes: [tw/si, tw/y, tw/u]}
+- {grapheme: "siunnh", phonemes: [tw/si, tw/y, tw/u, tw/nn]}
+- {grapheme: "so", phonemes: [tw/s, tw/o]}
+- {grapheme: "soh", phonemes: [tw/s, tw/o]}
+- {grapheme: "soo", phonemes: [tw/s, tw/oo]}
+- {grapheme: "sonn", phonemes: [tw/s, tw/o, tw/nn]}
+- {grapheme: "som", phonemes: [tw/s, tw/o, tw/M]}
+- {grapheme: "song", phonemes: [tw/s, tw/o, tw/NG]}
+- {grapheme: "sop", phonemes: [tw/s, tw/o, tw/P]}
+- {grapheme: "sok", phonemes: [tw/s, tw/o, tw/K]}
+- {grapheme: "sooh", phonemes: [tw/s, tw/oo]}
+- {grapheme: "sonnh", phonemes: [tw/s, tw/o, tw/nn]}
+- {grapheme: "su", phonemes: [tw/s, tw/u]}
+- {grapheme: "sun", phonemes: [tw/s, tw/u, tw/N]}
+- {grapheme: "sut", phonemes: [tw/s, tw/u, tw/T]}
+- {grapheme: "suh", phonemes: [tw/s, tw/u]}
+- {grapheme: "sua", phonemes: [tw/s, tw/w, tw/a]}
+- {grapheme: "suann", phonemes: [tw/s, tw/w, tw/a, tw/nn]}
+- {grapheme: "suan", phonemes: [tw/s, tw/w, tw/a, tw/N]}
+- {grapheme: "suat", phonemes: [tw/s, tw/w, tw/a, tw/T]}
+- {grapheme: "suah", phonemes: [tw/s, tw/w, tw/a]}
+- {grapheme: "suai", phonemes: [tw/s, tw/w, tw/ai]}
+- {grapheme: "suainn", phonemes: [tw/s, tw/w, tw/ai, tw/nn]}
+- {grapheme: "sue", phonemes: [tw/s, tw/w, tw/e]}
+- {grapheme: "sueh", phonemes: [tw/s, tw/w, tw/e]}
+- {grapheme: "sui", phonemes: [tw/s, tw/w, tw/i]}
+- {grapheme: "sm", phonemes: [tw/s, tw/MM]}
+- {grapheme: "smh", phonemes: [tw/s, tw/MM]}
+- {grapheme: "sng", phonemes: [tw/s, tw/NNG]}
+- {grapheme: "sngh", phonemes: [tw/s, tw/NNG]}
+- {grapheme: "nga", phonemes: [tw/ng, tw/a]}
+- {grapheme: "ngann", phonemes: [tw/ng, tw/a, tw/nn]}
+- {grapheme: "ngam", phonemes: [tw/ng, tw/a, tw/M]}
+- {grapheme: "ngan", phonemes: [tw/ng, tw/a, tw/N]}
+- {grapheme: "ngang", phonemes: [tw/ng, tw/a, tw/NG]}
+- {grapheme: "ngap", phonemes: [tw/ng, tw/a, tw/P]}
+- {grapheme: "ngat", phonemes: [tw/ng, tw/a, tw/T]}
+- {grapheme: "ngak", phonemes: [tw/ng, tw/a, tw/K]}
+- {grapheme: "ngah", phonemes: [tw/ng, tw/a]}
+- {grapheme: "ngannh", phonemes: [tw/ng, tw/a, tw/nn]}
+- {grapheme: "ngai", phonemes: [tw/ng, tw/ai]}
+- {grapheme: "ngainn", phonemes: [tw/ng, tw/ai, tw/nn]}
+- {grapheme: "ngaih", phonemes: [tw/ng, tw/ai]}
+- {grapheme: "ngainnh", phonemes: [tw/ng, tw/ai, tw/nn]}
+- {grapheme: "ngau", phonemes: [tw/ng, tw/au]}
+- {grapheme: "ngauh", phonemes: [tw/ng, tw/au]}
+- {grapheme: "nge", phonemes: [tw/ng, tw/e]}
+- {grapheme: "ngenn", phonemes: [tw/ng, tw/e, tw/nn]}
+- {grapheme: "ngeh", phonemes: [tw/ng, tw/e]}
+- {grapheme: "ngennh", phonemes: [tw/ng, tw/e, tw/nn]}
+- {grapheme: "ngi", phonemes: [tw/ng, tw/i]}
+- {grapheme: "nginn", phonemes: [tw/ng, tw/i, tw/nn]}
+- {grapheme: "ngim", phonemes: [tw/ng, tw/i, tw/M]}
+- {grapheme: "ngin", phonemes: [tw/ng, tw/i, tw/N]}
+- {grapheme: "nging", phonemes: [tw/ng, tw/i, tw/NG]}
+- {grapheme: "ngip", phonemes: [tw/ng, tw/i, tw/P]}
+- {grapheme: "ngit", phonemes: [tw/ng, tw/i, tw/T]}
+- {grapheme: "ngik", phonemes: [tw/ng, tw/i, tw/K]}
+- {grapheme: "ngih", phonemes: [tw/ng, tw/i]}
+- {grapheme: "nginnh", phonemes: [tw/ng, tw/i, tw/nn]}
+- {grapheme: "ngia", phonemes: [tw/ng, tw/y, tw/a]}
+- {grapheme: "ngiann", phonemes: [tw/ng, tw/y, tw/a, tw/nn]}
+- {grapheme: "ngiam", phonemes: [tw/ng, tw/y, tw/a, tw/M]}
+- {grapheme: "ngian", phonemes: [tw/ng, tw/y, tw/a, tw/N]}
+- {grapheme: "ngiang", phonemes: [tw/ng, tw/y, tw/a, tw/NG]}
+- {grapheme: "ngiap", phonemes: [tw/ng, tw/y, tw/a, tw/P]}
+- {grapheme: "ngiat", phonemes: [tw/ng, tw/y, tw/a, tw/T]}
+- {grapheme: "ngiak", phonemes: [tw/ng, tw/y, tw/a, tw/K]}
+- {grapheme: "ngiah", phonemes: [tw/ng, tw/y, tw/a]}
+- {grapheme: "ngiannh", phonemes: [tw/ng, tw/y, tw/a, tw/nn]}
+- {grapheme: "ngiau", phonemes: [tw/ng, tw/y, tw/au]}
+- {grapheme: "ngiaunn", phonemes: [tw/ng, tw/y, tw/au, tw/nn]}
+- {grapheme: "ngiauh", phonemes: [tw/ng, tw/y, tw/au]}
+- {grapheme: "ngio", phonemes: [tw/ng, tw/y, tw/o]}
+- {grapheme: "ngioh", phonemes: [tw/ng, tw/y, tw/o]}
+- {grapheme: "ngiong", phonemes: [tw/ng, tw/y, tw/o, tw/NG]}
+- {grapheme: "ngiok", phonemes: [tw/ng, tw/y, tw/o, tw/K]}
+- {grapheme: "ngiu", phonemes: [tw/ng, tw/y, tw/u]}
+- {grapheme: "ngiunn", phonemes: [tw/ng, tw/y, tw/u, tw/nn]}
+- {grapheme: "ngiuh", phonemes: [tw/ng, tw/y, tw/u]}
+- {grapheme: "ngiunnh", phonemes: [tw/ng, tw/y, tw/u, tw/nn]}
+- {grapheme: "ngo", phonemes: [tw/ng, tw/o]}
+- {grapheme: "ngoh", phonemes: [tw/ng, tw/o]}
+- {grapheme: "ngoo", phonemes: [tw/ng, tw/oo]}
+- {grapheme: "ngonn", phonemes: [tw/ng, tw/o, tw/nn]}
+- {grapheme: "ngom", phonemes: [tw/ng, tw/o, tw/M]}
+- {grapheme: "ngong", phonemes: [tw/ng, tw/o, tw/NG]}
+- {grapheme: "ngop", phonemes: [tw/ng, tw/o, tw/P]}
+- {grapheme: "ngok", phonemes: [tw/ng, tw/o, tw/K]}
+- {grapheme: "ngooh", phonemes: [tw/ng, tw/oo]}
+- {grapheme: "ngonnh", phonemes: [tw/ng, tw/o, tw/nn]}
+- {grapheme: "ngu", phonemes: [tw/ng, tw/u]}
+- {grapheme: "ngun", phonemes: [tw/ng, tw/u, tw/N]}
+- {grapheme: "ngut", phonemes: [tw/ng, tw/u, tw/T]}
+- {grapheme: "nguh", phonemes: [tw/ng, tw/u]}
+- {grapheme: "ngua", phonemes: [tw/ng, tw/w, tw/a]}
+- {grapheme: "nguann", phonemes: [tw/ng, tw/w, tw/a, tw/nn]}
+- {grapheme: "nguan", phonemes: [tw/ng, tw/w, tw/a, tw/N]}
+- {grapheme: "nguat", phonemes: [tw/ng, tw/w, tw/a, tw/T]}
+- {grapheme: "nguah", phonemes: [tw/ng, tw/w, tw/a]}
+- {grapheme: "nguai", phonemes: [tw/ng, tw/w, tw/ai]}
+- {grapheme: "nguainn", phonemes: [tw/ng, tw/w, tw/ai, tw/nn]}
+- {grapheme: "ngue", phonemes: [tw/ng, tw/w, tw/e]}
+- {grapheme: "ngueh", phonemes: [tw/ng, tw/w, tw/e]}
+- {grapheme: "ngui", phonemes: [tw/ng, tw/w, tw/i]}
+- {grapheme: "-", phonemes: [SP]}
+- {grapheme: "br", phonemes: [AP]}
+- {grapheme: "vf", phonemes: [vf]}
+- {grapheme: "gs", phonemes: [cl]}
+- {grapheme: "'", phonemes: [cl]}
+- {grapheme: "cl", phonemes: [cl]}
+- {grapheme: "pau", phonemes: [AP]}
+- {grapheme: "sil", phonemes: [SP]}
+- {grapheme: "exh", phonemes: [exh]}
+- {grapheme: "EP", phonemes: [exh]}
+- {grapheme: "axh", phonemes: [axh]}

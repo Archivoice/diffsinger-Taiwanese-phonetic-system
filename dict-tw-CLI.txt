@@ -1,0 +1,1468 @@
+a	a
+ann	a nn
+am	a M
+an	a N
+ang	a NG
+ap	a P
+at	a T
+ak	a K
+ah	a
+annh	a nn
+ai	ai
+ainn	ai nn
+aih	ai
+ainnh	ai nn
+au	au
+auh	au
+e	e
+enn	e nn
+eh	e
+ennh	e nn
+i	i
+inn	i nn
+im	i M
+in	i N
+ing	i NG
+ip	i P
+it	i T
+ik	i K
+ih	i
+innh	i nn
+ia	y a
+iann	y a nn
+iam	y a M
+ian	y a N
+iang	y a NG
+iap	y a P
+iat	y a T
+iak	y a K
+iah	y a
+iannh	y a nn
+iau	y au
+iaunn	y au nn
+iauh	y au
+io	y o
+ioh	y o
+iong	y o NG
+iok	y o K
+iu	y u
+iunn	y u nn
+iuh	y u
+iunnh	y u nn
+o	o
+oh	o
+oo	oo
+onn	o nn
+om	o M
+ong	o NG
+op	o P
+ok	o K
+ooh	oo
+onnh	o nn
+u	u
+un	u N
+ut	u T
+uh	u
+ua	w a
+uann	w a nn
+uan	w a N
+uat	w a T
+uah	w a
+uai	w ai
+uainn	w ai nn
+ue	w e
+ueh	w e
+ui	w i
+m	M
+mh	M
+ng	NG
+ngh	NG
+pa	p a
+pann	p a nn
+pam	p a M
+pan	p a N
+pang	p a NG
+pap	p a P
+pat	p a T
+pak	p a K
+pah	p a
+pannh	p a nn
+pai	p ai
+painn	p ai nn
+paih	p ai
+painnh	p ai nn
+pau	p au
+pauh	p au
+pe	p e
+penn	p e nn
+peh	p e
+pennh	p e nn
+pi	p i
+pinn	p i nn
+pim	p i M
+pin	p i N
+ping	p i NG
+pip	p i P
+pit	p i T
+pik	p i K
+pih	p i
+pinnh	p i nn
+pia	p y a
+piann	p y a nn
+piam	p y a M
+pian	p y a N
+piang	p y a NG
+piap	p y a P
+piat	p y a T
+piak	p y a K
+piah	p y a
+piannh	p y a nn
+piau	p y au
+piaunn	p y au nn
+piauh	p y au
+pio	p y o
+pioh	p y o
+piong	p y o NG
+piok	p y o K
+piu	p y u
+piunn	p y u nn
+piuh	p y u
+piunnh	p y u nn
+po	p o
+poh	p o
+poo	p oo
+ponn	p o nn
+pom	p o M
+pong	p o NG
+pop	p o P
+pok	p o K
+pooh	p oo
+ponnh	p o nn
+pu	p u
+pun	p u N
+put	p u T
+puh	p u
+pua	p w a
+puann	p w a nn
+puan	p w a N
+puat	p w a T
+puah	p w a
+puai	p w ai
+puainn	p w ai nn
+pue	p w e
+pueh	p w e
+pui	p w i
+pm	p MM
+pmh	p MM
+png	p NNG
+pngh	p NNG
+ba	b a
+bann	b a nn
+bam	b a M
+ban	b a N
+bang	b a NG
+bap	b a P
+bat	b a T
+bak	b a K
+bah	b a
+bannh	b a nn
+bai	b ai
+bainn	b ai nn
+baih	b ai
+bainnh	b ai nn
+bau	b au
+bauh	b au
+be	b e
+benn	b e nn
+beh	b e
+bennh	b e nn
+bi	b i
+binn	b i nn
+bim	b i M
+bin	b i N
+bing	b i NG
+bip	b i P
+bit	b i T
+bik	b i K
+bih	b i
+binnh	b i nn
+bia	b y a
+biann	b y a nn
+biam	b y a M
+bian	b y a N
+biang	b y a NG
+biap	b y a P
+biat	b y a T
+biak	b y a K
+biah	b y a
+biannh	b y a nn
+biau	b y au
+biaunn	b y au nn
+biauh	b y au
+bio	b y o
+bioh	b y o
+biong	b y o NG
+biok	b y o K
+biu	b y u
+biunn	b y u nn
+biuh	b y u
+biunnh	b y u nn
+bo	b o
+boh	b o
+boo	b oo
+bonn	b o nn
+bom	b o M
+bong	b o NG
+bop	b o P
+bok	b o K
+booh	b oo
+bonnh	b o nn
+bu	b u
+bun	b u N
+but	b u T
+buh	b u
+bua	b w a
+buann	b w a nn
+buan	b w a N
+buat	b w a T
+buah	b w a
+buai	b w ai
+buainn	b w ai nn
+bue	b w e
+bueh	b w e
+bui	b w i
+bm	b MM
+bmh	b MM
+bng	b NNG
+bngh	b NNG
+pha	ph a
+phann	ph a nn
+pham	ph a M
+phan	ph a N
+phang	ph a NG
+phap	ph a P
+phat	ph a T
+phak	ph a K
+phah	ph a
+phannh	ph a nn
+phai	ph ai
+phainn	ph ai nn
+phaih	ph ai
+phainnh	ph ai nn
+phau	ph au
+phauh	ph au
+phe	ph e
+phenn	ph e nn
+pheh	ph e
+phennh	ph e nn
+phi	ph i
+phinn	ph i nn
+phim	ph i M
+phin	ph i N
+phing	ph i NG
+phip	ph i P
+phit	ph i T
+phik	ph i K
+phih	ph i
+phinnh	ph i nn
+phia	ph y a
+phiann	ph y a nn
+phiam	ph y a M
+phian	ph y a N
+phiang	ph y a NG
+phiap	ph y a P
+phiat	ph y a T
+phiak	ph y a K
+phiah	ph y a
+phiannh	ph y a nn
+phiau	ph y au
+phiaunn	ph y au nn
+phiauh	ph y au
+phio	ph y o
+phioh	ph y o
+phiong	ph y o NG
+phiok	ph y o K
+phiu	ph y u
+phiunn	ph y u nn
+phiuh	ph y u
+phiunnh	ph y u nn
+pho	ph o
+phoh	ph o
+phoo	ph oo
+phonn	ph o nn
+phom	ph o M
+phong	ph o NG
+phop	ph o P
+phok	ph o K
+phooh	ph oo
+phonnh	ph o nn
+phu	ph u
+phun	ph u N
+phut	ph u T
+phuh	ph u
+phua	ph w a
+phuann	ph w a nn
+phuan	ph w a N
+phuat	ph w a T
+phuah	ph w a
+phuai	ph w ai
+phuainn	ph w ai nn
+phue	ph w e
+phueh	ph w e
+phui	ph w i
+phm	ph MM
+phmh	ph MM
+phng	ph NNG
+phngh	ph NNG
+ma	m a
+mann	m a nn
+mam	m a M
+man	m a N
+mang	m a NG
+map	m a P
+mat	m a T
+mak	m a K
+mah	m a
+mannh	m a nn
+mai	m ai
+mainn	m ai nn
+maih	m ai
+mainnh	m ai nn
+mau	m au
+mauh	m au
+me	m e
+menn	m e nn
+meh	m e
+mennh	m e nn
+mi	m i
+minn	m i nn
+mim	m i M
+min	m i N
+ming	m i NG
+mip	m i P
+mit	m i T
+mik	m i K
+mih	m i
+minnh	m i nn
+mia	m y a
+miann	m y a nn
+miam	m y a M
+mian	m y a N
+miang	m y a NG
+miap	m y a P
+miat	m y a T
+miak	m y a K
+miah	m y a
+miannh	m y a nn
+miau	m y au
+miaunn	m y au nn
+miauh	m y au
+mio	m y o
+mioh	m y o
+miong	m y o NG
+miok	m y o K
+miu	m y u
+miunn	m y u nn
+miuh	m y u
+miunnh	m y u nn
+mo	m o
+moh	m o
+moo	m oo
+monn	m o nn
+mom	m o M
+mong	m o NG
+mop	m o P
+mok	m o K
+mooh	m oo
+monnh	m o nn
+mu	m u
+mun	m u N
+mut	m u T
+muh	m u
+mua	m w a
+muann	m w a nn
+muan	m w a N
+muat	m w a T
+muah	m w a
+muai	m w ai
+muainn	m w ai nn
+mue	m w e
+mueh	m w e
+mui	m w i
+mm	m MM
+mmh	m MM
+mng	m NNG
+mngh	m NNG
+ta	t a
+tann	t a nn
+tam	t a M
+tan	t a N
+tang	t a NG
+tap	t a P
+tat	t a T
+tak	t a K
+tah	t a
+tannh	t a nn
+tai	t ai
+tainn	t ai nn
+taih	t ai
+tainnh	t ai nn
+tau	t au
+tauh	t au
+te	t e
+tenn	t e nn
+teh	t e
+tennh	t e nn
+ti	t i
+tinn	t i nn
+tim	t i M
+tin	t i N
+ting	t i NG
+tip	t i P
+tit	t i T
+tik	t i K
+tih	t i
+tinnh	t i nn
+tia	t y a
+tiann	t y a nn
+tiam	t y a M
+tian	t y a N
+tiang	t y a NG
+tiap	t y a P
+tiat	t y a T
+tiak	t y a K
+tiah	t y a
+tiannh	t y a nn
+tiau	t y au
+tiaunn	t y au nn
+tiauh	t y au
+tio	t y o
+tioh	t y o
+tiong	t y o NG
+tiok	t y o K
+tiu	t y u
+tiunn	t y u nn
+tiuh	t y u
+tiunnh	t y u nn
+to	t o
+toh	t o
+too	t oo
+tonn	t o nn
+tom	t o M
+tong	t o NG
+top	t o P
+tok	t o K
+tooh	t oo
+tonnh	t o nn
+tu	t u
+tun	t u N
+tut	t u T
+tuh	t u
+tua	t w a
+tuann	t w a nn
+tuan	t w a N
+tuat	t w a T
+tuah	t w a
+tuai	t w ai
+tuainn	t w ai nn
+tue	t w e
+tueh	t w e
+tui	t w i
+tm	t MM
+tmh	t MM
+tng	t NNG
+tngh	t NNG
+tha	th a
+thann	th a nn
+tham	th a M
+than	th a N
+thang	th a NG
+thap	th a P
+that	th a T
+thak	th a K
+thah	th a
+thannh	th a nn
+thai	th ai
+thainn	th ai nn
+thaih	th ai
+thainnh	th ai nn
+thau	th au
+thauh	th au
+the	th e
+thenn	th e nn
+theh	th e
+thennh	th e nn
+thi	th i
+thinn	th i nn
+thim	th i M
+thin	th i N
+thing	th i NG
+thip	th i P
+thit	th i T
+thik	th i K
+thih	th i
+thinnh	th i nn
+thia	th y a
+thiann	th y a nn
+thiam	th y a M
+thian	th y a N
+thiang	th y a NG
+thiap	th y a P
+thiat	th y a T
+thiak	th y a K
+thiah	th y a
+thiannh	th y a nn
+thiau	th y au
+thiaunn	th y au nn
+thiauh	th y au
+thio	th y o
+thioh	th y o
+thiong	th y o NG
+thiok	th y o K
+thiu	th y u
+thiunn	th y u nn
+thiuh	th y u
+thiunnh	th y u nn
+tho	th o
+thoh	th o
+thoo	th oo
+thonn	th o nn
+thom	th o M
+thong	th o NG
+thop	th o P
+thok	th o K
+thooh	th oo
+thonnh	th o nn
+thu	th u
+thun	th u N
+thut	th u T
+thuh	th u
+thua	th w a
+thuann	th w a nn
+thuan	th w a N
+thuat	th w a T
+thuah	th w a
+thuai	th w ai
+thuainn	th w ai nn
+thue	th w e
+thueh	th w e
+thui	th w i
+thm	th MM
+thmh	th MM
+thng	th NNG
+thngh	th NNG
+na	n a
+nann	n a nn
+nam	n a M
+nan	n a N
+nang	n a NG
+nap	n a P
+nat	n a T
+nak	n a K
+nah	n a
+nannh	n a nn
+nai	n ai
+nainn	n ai nn
+naih	n ai
+nainnh	n ai nn
+nau	n au
+nauh	n au
+ne	n e
+nenn	n e nn
+neh	n e
+nennh	n e nn
+ni	n i
+ninn	n i nn
+nim	n i M
+nin	n i N
+ning	n i NG
+nip	n i P
+nit	n i T
+nik	n i K
+nih	n i
+ninnh	n i nn
+nia	n y a
+niann	n y a nn
+niam	n y a M
+nian	n y a N
+niang	n y a NG
+niap	n y a P
+niat	n y a T
+niak	n y a K
+niah	n y a
+niannh	n y a nn
+niau	n y au
+niaunn	n y au nn
+niauh	n y au
+nio	n y o
+nioh	n y o
+niong	n y o NG
+niok	n y o K
+niu	n y u
+niunn	n y u nn
+niuh	n y u
+niunnh	n y u nn
+no	n o
+noh	n o
+noo	n oo
+nonn	n o nn
+nom	n o M
+nong	n o NG
+nop	n o P
+nok	n o K
+nooh	n oo
+nonnh	n o nn
+nu	n u
+nun	n u N
+nut	n u T
+nuh	n u
+nua	n w a
+nuann	n w a nn
+nuan	n w a N
+nuat	n w a T
+nuah	n w a
+nuai	n w ai
+nuainn	n w ai nn
+nue	n w e
+nueh	n w e
+nui	n w i
+nm	n MM
+nmh	n MM
+nng	n NNG
+nngh	n NNG
+la	l a
+lann	l a nn
+lam	l a M
+lan	l a N
+lang	l a NG
+lap	l a P
+lat	l a T
+lak	l a K
+lah	l a
+lannh	l a nn
+lai	l ai
+lainn	l ai nn
+laih	l ai
+lainnh	l ai nn
+lau	l au
+lauh	l au
+le	l e
+lenn	l e nn
+leh	l e
+lennh	l e nn
+li	l i
+linn	l i nn
+lim	l i M
+lin	l i N
+ling	l i NG
+lip	l i P
+lit	l i T
+lik	l i K
+lih	l i
+linnh	l i nn
+lia	l y a
+liann	l y a nn
+liam	l y a M
+lian	l y a N
+liang	l y a NG
+liap	l y a P
+liat	l y a T
+liak	l y a K
+liah	l y a
+liannh	l y a nn
+liau	l y au
+liaunn	l y au nn
+liauh	l y au
+lio	l y o
+lioh	l y o
+liong	l y o NG
+liok	l y o K
+liu	l y u
+liunn	l y u nn
+liuh	l y u
+liunnh	l y u nn
+lo	l o
+loh	l o
+loo	l oo
+lonn	l o nn
+lom	l o M
+long	l o NG
+lop	l o P
+lok	l o K
+looh	l oo
+lonnh	l o nn
+lu	l u
+lun	l u N
+lut	l u T
+luh	l u
+lua	l w a
+luann	l w a nn
+luan	l w a N
+luat	l w a T
+luah	l w a
+luai	l w ai
+luainn	l w ai nn
+lue	l w e
+lueh	l w e
+lui	l w i
+lm	l MM
+lmh	l MM
+lng	l NNG
+lngh	l NNG
+ka	k a
+kann	k a nn
+kam	k a M
+kan	k a N
+kang	k a NG
+kap	k a P
+kat	k a T
+kak	k a K
+kah	k a
+kannh	k a nn
+kai	k ai
+kainn	k ai nn
+kaih	k ai
+kainnh	k ai nn
+kau	k au
+kauh	k au
+ke	k e
+kenn	k e nn
+keh	k e
+kennh	k e nn
+ki	k i
+kinn	k i nn
+kim	k i M
+kin	k i N
+king	k i NG
+kip	k i P
+kit	k i T
+kik	k i K
+kih	k i
+kinnh	k i nn
+kia	k y a
+kiann	k y a nn
+kiam	k y a M
+kian	k y a N
+kiang	k y a NG
+kiap	k y a P
+kiat	k y a T
+kiak	k y a K
+kiah	k y a
+kiannh	k y a nn
+kiau	k y au
+kiaunn	k y au nn
+kiauh	k y au
+kio	k y o
+kioh	k y o
+kiong	k y o NG
+kiok	k y o K
+kiu	k y u
+kiunn	k y u nn
+kiuh	k y u
+kiunnh	k y u nn
+ko	k o
+koh	k o
+koo	k oo
+konn	k o nn
+kom	k o M
+kong	k o NG
+kop	k o P
+kok	k o K
+kooh	k oo
+konnh	k o nn
+ku	k u
+kun	k u N
+kut	k u T
+kuh	k u
+kua	k w a
+kuann	k w a nn
+kuan	k w a N
+kuat	k w a T
+kuah	k w a
+kuai	k w ai
+kuainn	k w ai nn
+kue	k w e
+kueh	k w e
+kui	k w i
+km	k MM
+kmh	k MM
+kng	k NNG
+kngh	k NNG
+ga	g a
+gann	g a nn
+gam	g a M
+gan	g a N
+gang	g a NG
+gap	g a P
+gat	g a T
+gak	g a K
+gah	g a
+gannh	g a nn
+gai	g ai
+gainn	g ai nn
+gaih	g ai
+gainnh	g ai nn
+gau	g au
+gauh	g au
+ge	g e
+genn	g e nn
+geh	g e
+gennh	g e nn
+gi	g i
+ginn	g i nn
+gim	g i M
+gin	g i N
+ging	g i NG
+gip	g i P
+git	g i T
+gik	g i K
+gih	g i
+ginnh	g i nn
+gia	g y a
+giann	g y a nn
+giam	g y a M
+gian	g y a N
+giang	g y a NG
+giap	g y a P
+giat	g y a T
+giak	g y a K
+giah	g y a
+giannh	g y a nn
+giau	g y au
+giaunn	g y au nn
+giauh	g y au
+gio	g y o
+gioh	g y o
+giong	g y o NG
+giok	g y o K
+giu	g y u
+giunn	g y u nn
+giuh	g y u
+giunnh	g y u nn
+go	g o
+goh	g o
+goo	g oo
+gonn	g o nn
+gom	g o M
+gong	g o NG
+gop	g o P
+gok	g o K
+gooh	g oo
+gonnh	g o nn
+gu	g u
+gun	g u N
+gut	g u T
+guh	g u
+gua	g w a
+guann	g w a nn
+guan	g w a N
+guat	g w a T
+guah	g w a
+guai	g w ai
+guainn	g w ai nn
+gue	g w e
+gueh	g w e
+gui	g w i
+gm	g MM
+gmh	g MM
+gng	g NNG
+gngh	g NNG
+kha	kh a
+khann	kh a nn
+kham	kh a M
+khan	kh a N
+khang	kh a NG
+khap	kh a P
+khat	kh a T
+khak	kh a K
+khah	kh a
+khannh	kh a nn
+khai	kh ai
+khainn	kh ai nn
+khaih	kh ai
+khainnh	kh ai nn
+khau	kh au
+khauh	kh au
+khe	kh e
+khenn	kh e nn
+kheh	kh e
+khennh	kh e nn
+khi	kh i
+khinn	kh i nn
+khim	kh i M
+khin	kh i N
+khing	kh i NG
+khip	kh i P
+khit	kh i T
+khik	kh i K
+khih	kh i
+khinnh	kh i nn
+khia	kh y a
+khiann	kh y a nn
+khiam	kh y a M
+khian	kh y a N
+khiang	kh y a NG
+khiap	kh y a P
+khiat	kh y a T
+khiak	kh y a K
+khiah	kh y a
+khiannh	kh y a nn
+khiau	kh y au
+khiaunn	kh y au nn
+khiauh	kh y au
+khio	kh y o
+khioh	kh y o
+khiong	kh y o NG
+khiok	kh y o K
+khiu	kh y u
+khiunn	kh y u nn
+khiuh	kh y u
+khiunnh	kh y u nn
+kho	kh o
+khoh	kh o
+khoo	kh oo
+khonn	kh o nn
+khom	kh o M
+khong	kh o NG
+khop	kh o P
+khok	kh o K
+khooh	kh oo
+khonnh	kh o nn
+khu	kh u
+khun	kh u N
+khut	kh u T
+khuh	kh u
+khua	kh w a
+khuann	kh w a nn
+khuan	kh w a N
+khuat	kh w a T
+khuah	kh w a
+khuai	kh w ai
+khuainn	kh w ai nn
+khue	kh w e
+khueh	kh w e
+khui	kh w i
+khm	kh MM
+khmh	kh MM
+khng	kh NNG
+khngh	kh NNG
+ha	h a
+hann	h a nn
+ham	h a M
+han	h a N
+hang	h a NG
+hap	h a P
+hat	h a T
+hak	h a K
+hah	h a
+hannh	h a nn
+hai	h ai
+hainn	h ai nn
+haih	h ai
+hainnh	h ai nn
+hau	h au
+hauh	h au
+he	h e
+henn	h e nn
+heh	h e
+hennh	h e nn
+hi	h i
+hinn	h i nn
+him	h i M
+hin	h i N
+hing	h i NG
+hip	h i P
+hit	h i T
+hik	h i K
+hih	h i
+hinnh	h i nn
+hia	h y a
+hiann	h y a nn
+hiam	h y a M
+hian	h y a N
+hiang	h y a NG
+hiap	h y a P
+hiat	h y a T
+hiak	h y a K
+hiah	h y a
+hiannh	h y a nn
+hiau	h y au
+hiaunn	h y au nn
+hiauh	h y au
+hio	h y o
+hioh	h y o
+hiong	h y o NG
+hiok	h y o K
+hiu	h y u
+hiunn	h y u nn
+hiuh	h y u
+hiunnh	h y u nn
+ho	h o
+hoh	h o
+hoo	h oo
+honn	h o nn
+hom	h o M
+hong	h o NG
+hop	h o P
+hok	h o K
+hooh	h oo
+honnh	h o nn
+hu	h u
+hun	h u N
+hut	h u T
+huh	h u
+hua	h w a
+huann	h w a nn
+huan	h w a N
+huat	h w a T
+huah	h w a
+huai	h w ai
+huainn	h w ai nn
+hue	h w e
+hueh	h w e
+hui	h w i
+hm	h MM
+hmh	h MM
+hng	h NNG
+hngh	h NNG
+tsia	tsi y a
+tsiann	tsi y a nn
+tsiam	tsi y a M
+tsian	tsi y a N
+tsiang	tsi y a NG
+tsiap	tsi y a P
+tsiat	tsi y a T
+tsiak	tsi y a K
+tsiah	tsi y a
+tsiannh	tsi y a nn
+tsiau	tsi y au
+tsiauh	tsi y au
+tsio	tsi y o
+tsioh	tsi y o
+tsioo	tsi y oo
+tsionn	tsi y o nn
+tsiom	tsi y o M
+tsiong	tsi y o NG
+tsiop	tsi y o P
+tsiok	tsi y o K
+tsiooh	tsi y oo
+tsionnh	tsi y o nn
+tsiu	tsi y u
+tsiun	tsi y u N
+tsiut	tsi y u T
+tsiuh	tsi y u
+tsim	tsi M
+tsimh	tsi M
+tsing	tsi NG
+tsingh	tsi NG
+tsa	ts a
+tsann	ts a nn
+tsam	ts a M
+tsan	ts a N
+tsang	ts a NG
+tsap	ts a P
+tsat	ts a T
+tsak	ts a K
+tsah	ts a
+tsannh	ts a nn
+tsai	ts ai
+tsainn	ts ai nn
+tsaih	ts ai
+tsainnh	ts ai nn
+tsau	ts au
+tsauh	ts au
+tse	ts e
+tsenn	ts e nn
+tseh	ts e
+tsennh	ts e nn
+tsi	ts i
+tsinn	ts i nn
+tsim	ts i M
+tsin	ts i N
+tsing	ts i NG
+tsip	ts i P
+tsit	ts i T
+tsik	ts i K
+tsih	ts i
+tsinnh	ts i nn
+tsia	ts y a
+tsiann	ts y a nn
+tsiam	ts y a M
+tsian	ts y a N
+tsiang	ts y a NG
+tsiap	ts y a P
+tsiat	ts y a T
+tsiak	ts y a K
+tsiah	ts y a
+tsiannh	ts y a nn
+tsiau	ts y au
+tsiaunn	ts y au nn
+tsiauh	ts y au
+tsio	ts y o
+tsioh	ts y o
+tsiong	ts y o NG
+tsiok	ts y o K
+tsiu	ts y u
+tsiunn	ts y u nn
+tsiuh	ts y u
+tsiunnh	ts y u nn
+tso	ts o
+tsoh	ts o
+tsoo	ts oo
+tsonn	ts o nn
+tsom	ts o M
+tsong	ts o NG
+tsop	ts o P
+tsok	ts o K
+tsooh	ts oo
+tsonnh	ts o nn
+tsu	ts u
+tsun	ts u N
+tsut	ts u T
+tsuh	ts u
+tsua	ts w a
+tsuann	ts w a nn
+tsuan	ts w a N
+tsuat	ts w a T
+tsuah	ts w a
+tsuai	ts w ai
+tsuainn	ts w ai nn
+tsue	ts w e
+tsueh	ts w e
+tsui	ts w i
+tsm	ts MM
+tsmh	ts MM
+tsng	ts NNG
+tsngh	ts NNG
+ja	j a
+jann	j a nn
+jam	j a M
+jan	j a N
+jang	j a NG
+jap	j a P
+jat	j a T
+jak	j a K
+jah	j a
+jannh	j a nn
+jai	j ai
+jainn	j ai nn
+jaih	j ai
+jainnh	j ai nn
+jau	j au
+jauh	j au
+je	j e
+jenn	j e nn
+jeh	j e
+jennh	j e nn
+ji	ji y
+jinn	ji y nn
+jim	ji y MM
+jin	ji y N
+jing	ji y NNG
+jip	ji y P
+jit	ji y T
+jik	ji y K
+jih	ji y
+jinnh	ji y nn
+jia	ji y a
+jiann	ji y a nn
+jiam	ji y a M
+jian	ji y a N
+jiang	ji y a NG
+jiap	ji y a P
+jiat	ji y a T
+jiak	ji y a K
+jiah	ji y a
+jiannh	ji y a nn
+jiau	ji y au
+jiauh	ji y au
+jio	ji y o
+jioh	ji y o
+jioo	ji y oo
+jionn	ji y o nn
+jiom	ji y o M
+jiong	ji y o NG
+jiop	ji y o P
+jiok	ji y o K
+jiooh	ji y oo
+jionnh	ji y o nn
+jiu	ji y u
+jiun	ji y u N
+jiut	ji y u T
+jiuh	ji y u
+jim	ji M
+jimh	ji M
+jing	ji NG
+jingh	ji NG
+jo	j o
+joh	j o
+joo	j oo
+jonn	j o nn
+jom	j o M
+jong	j o NG
+jop	j o P
+jok	j o K
+jooh	j oo
+jonnh	j o nn
+ju	j u
+jun	j u N
+jut	j u T
+juh	j u
+jua	j w a
+juann	j w a nn
+juan	j w a N
+juat	j w a T
+juah	j w a
+juai	j w ai
+juainn	j w ai nn
+jue	j w e
+jueh	j w e
+jui	j w i
+jm	j MM
+jmh	j MM
+jng	j NNG
+jngh	j NNG
+tsha	tsh a
+tshann	tsh a nn
+tsham	tsh a M
+tshan	tsh a N
+tshang	tsh a NG
+tshap	tsh a P
+tshat	tsh a T
+tshak	tsh a K
+tshah	tsh a
+tshannh	tsh a nn
+tshai	tsh ai
+tshainn	tsh ai nn
+tshaih	tsh ai
+tshainnh	tsh ai nn
+tshau	tsh au
+tshauh	tsh au
+tshe	tsh e
+tshenn	tsh e nn
+tsheh	tsh e
+tshennh	tsh e nn
+tshi	tshi i
+tshinn	tshi i nn
+tshim	tshi i M
+tshin	tshi i N
+tshing	tshi i NG
+tship	tshi i P
+tshit	tshi i T
+tshik	tshi i K
+tshih	tshi i
+tshinnh	tshi i nn
+tshia	tshi y a
+tshiann	tshi y a nn
+tshiam	tshi y a M
+tshian	tshi y a N
+tshiang	tshi y a NG
+tshiap	tshi y a P
+tshiat	tshi y a T
+tshiak	tshi y a K
+tshiah	tshi y a
+tshiannh	tshi y a nn
+tshiau	tshi y au
+tshiaunn	tshi y au nn
+tshiauh	tshi y au
+tshio	tshi y o
+tshioh	tshi y o
+tshiong	tshi y o NG
+tshiok	tshi y o K
+tshiu	tshi y u
+tshiunn	tshi y u nn
+tshiuh	tshi y u
+tshiunnh	tshi y u nn
+tsho	tsh o
+tshoh	tsh o
+tshoo	tsh oo
+tshonn	tsh o nn
+tshom	tsh o M
+tshong	tsh o NG
+tshop	tsh o P
+tshok	tsh o K
+tshooh	tsh oo
+tshonnh	tsh o nn
+tshu	tsh u
+tshun	tsh u N
+tshut	tsh u T
+tshuh	tsh u
+tshua	tsh w a
+tshuann	tsh w a nn
+tshuan	tsh w a N
+tshuat	tsh w a T
+tshuah	tsh w a
+tshuai	tsh w ai
+tshuainn	tsh w ai nn
+tshue	tsh w e
+tshueh	tsh w e
+tshui	tsh w i
+tshm	tsh MM
+tshmh	tsh MM
+tshng	tsh NNG
+tshngh	tsh NNG
+sa	s a
+sann	s a nn
+sam	s a M
+san	s a N
+sang	s a NG
+sap	s a P
+sat	s a T
+sak	s a K
+sah	s a
+sannh	s a nn
+sai	s ai
+sainn	s ai nn
+saih	s ai
+sainnh	s ai nn
+sau	s au
+sauh	s au
+se	s e
+senn	s e nn
+seh	s e
+sennh	s e nn
+si	si i
+sinn	si i nn
+sim	si i M
+sin	si i N
+sing	si i NG
+sip	si i P
+sit	si i T
+sik	si i K
+sih	si i
+sinnh	si i nn
+sia	si y a
+siann	si y a nn
+siam	si y a M
+sian	si y a N
+siang	si y a NG
+siap	si y a P
+siat	si y a T
+siak	si y a K
+siah	si y a
+siannh	si y a nn
+siau	si y au
+siaunn	si y au nn
+siauh	si y au
+sio	si y o
+sioh	si y o
+siong	si y o NG
+siok	si y o K
+siu	si y u
+siunn	si y u nn
+siuh	si y u
+siunnh	si y u nn
+so	s o
+soh	s o
+soo	s oo
+sonn	s o nn
+som	s o M
+song	s o NG
+sop	s o P
+sok	s o K
+sooh	s oo
+sonnh	s o nn
+su	s u
+sun	s u N
+sut	s u T
+suh	s u
+sua	s w a
+suann	s w a nn
+suan	s w a N
+suat	s w a T
+suah	s w a
+suai	s w ai
+suainn	s w ai nn
+sue	s w e
+sueh	s w e
+sui	s w i
+sm	s MM
+smh	s MM
+sng	s NNG
+sngh	s NNG
+nga	ng a
+ngann	ng a nn
+ngam	ng a M
+ngan	ng a N
+ngang	ng a NG
+ngap	ng a P
+ngat	ng a T
+ngak	ng a K
+ngah	ng a
+ngannh	ng a nn
+ngai	ng ai
+ngainn	ng ai nn
+ngaih	ng ai
+ngainnh	ng ai nn
+ngau	ng au
+ngauh	ng au
+nge	ng e
+ngenn	ng e nn
+ngeh	ng e
+ngennh	ng e nn
+ngi	ng i
+nginn	ng i nn
+ngim	ng i M
+ngin	ng i N
+nging	ng i NG
+ngip	ng i P
+ngit	ng i T
+ngik	ng i K
+ngih	ng i
+nginnh	ng i nn
+ngia	ng y a
+ngiann	ng y a nn
+ngiam	ng y a M
+ngian	ng y a N
+ngiang	ng y a NG
+ngiap	ng y a P
+ngiat	ng y a T
+ngiak	ng y a K
+ngiah	ng y a
+ngiannh	ng y a nn
+ngiau	ng y au
+ngiaunn	ng y au nn
+ngiauh	ng y au
+ngio	ng y o
+ngioh	ng y o
+ngiong	ng y o NG
+ngiok	ng y o K
+ngiu	ng y u
+ngiunn	ng y u nn
+ngiuh	ng y u
+ngiunnh	ng y u nn
+ngo	ng o
+ngoh	ng o
+ngoo	ng oo
+ngonn	ng o nn
+ngom	ng o M
+ngong	ng o NG
+ngop	ng o P
+ngok	ng o K
+ngooh	ng oo
+ngonnh	ng o nn
+ngu	ng u
+ngun	ng u N
+ngut	ng u T
+nguh	ng u
+ngua	ng w a
+nguann	ng w a nn
+nguan	ng w a N
+nguat	ng w a T
+nguah	ng w a
+nguai	ng w ai
+nguainn	ng w ai nn
+ngue	ng w e
+ngueh	ng w e
+ngui	ng w i
+-	SP
+br	AP
+vf	vf
+gs	cl
+'	cl
+cl	cl
+pau	AP
+sil	SP
+exh	exh
+EP	exh
+axh	axh
